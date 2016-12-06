@@ -1,0 +1,7 @@
+﻿Sau hơn một tháng giới thiệu phiên bản beta thì hôm nay Google đã thông báo tính năng Google Instant trên di động đã chính thức ra mắt trên toàn thế giới.
+
+Tháng trước, Google Instant (một tính năng mới cho phép tìm kiếm tức thời) được ra mắt trên các thiết bị di động ở bản beta. Hiện tại tính năng mới này đã có sẵn với 28 ngôn ngữ và có thể được sử dụng trên 40 quốc gia (ban đầu, bản beta chỉ hoạt động với tiếng Anh).
+
+Nếu bạn có một thiết bị sử dụng hệ điều hành Android phiên bản 2.2 trở lên hoặc hệ điều hành iOS 4 của Apple, bạn có thể sử dụng trình duyệt trên di động của mình, truy cập vào trang google.com. Trang web sẽ tự chuyển hướng về trang google tại quốc gia mà bạn đang sử dụng.
+
+Sau đó, bạn click vào liên kết Google Instant phía bên dưới để kích hoạt tính năng này. Một chú ý là bạn cũng cần phải có một kết nối WiFi để sử dụng được tính năng này, tuy nhiên, thực tế cho thấy với một kết nối HSDPA, tính năng này vẫn hoạt động được bình thường.

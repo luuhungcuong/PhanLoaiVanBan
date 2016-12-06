@@ -1,0 +1,881 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA1CE7B5-C9FC-4F05-9456-488C60E8A416}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PhanLoaiVanBan</RootNamespace>
+    <AssemblyName>PhanLoaiVanBan</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=7.5.0.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategory.Designer.cs">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClassify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClassify.Designer.cs">
+      <DependentUpon>FrmClassify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImport.Designer.cs">
+      <DependentUpon>FrmImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImportFromFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImportFromFile.Designer.cs">
+      <DependentUpon>FrmImportFromFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStopWords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStopWords.Designer.cs">
+      <DependentUpon>FrmStopWords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTraining.Designer.cs">
+      <DependentUpon>FrmTraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategory.resx">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClassify.resx">
+      <DependentUpon>FrmClassify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImport.resx">
+      <DependentUpon>FrmImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImportFromFile.resx">
+      <DependentUpon>FrmImportFromFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStopWords.resx">
+      <DependentUpon>FrmStopWords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTraining.resx">
+      <DependentUpon>FrmTraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PhanLoaiVanBan.DataAccess\PhanLoaiVanBan.DataAccess.csproj">
+      <Project>{D06D75A9-9C12-48C9-B49C-F5119B450459}</Project>
+      <Name>PhanLoaiVanBan.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhanLoaiVanBan.DataClass\PhanLoaiVanBan.DocumentProcessing.csproj">
+      <Project>{1B190CE4-D170-40D4-9D87-7997B22A2101}</Project>
+      <Name>PhanLoaiVanBan.DocumentProcessing</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_ledgers16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_ledgers16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\address_book24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrowleft_green16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrowright_green16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bill.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binoc16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BitTorrent132.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BitTorrent232.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carrier.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Catalogue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart bar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart bar1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart bar2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartArea.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartArea1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartBar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartBar1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartBarGallery.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartBarGallery1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartGallery.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartGallery1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartLine.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartLine1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartLineGallery.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartLineGallery1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartPie.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartPie.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartPie1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartPieGallery.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChartPieGallery1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checking.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\China.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Choose.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cleanup16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CO.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CO_Detail.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CompanyInfo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Compare.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Configuration setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Configuration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact24a_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\currency_dollar24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers161.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customs Guide.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customs1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CustomsGuide.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_x16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Deposit.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DigitalSignature.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DigitalSignature.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DigitalSignature.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DigitalSignature1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DollarSign_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Draft.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editcut%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editpaste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Export.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Export_321.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Export1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_track_blue16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_track_orange16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floppy32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floppy132.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_documents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FOLDER_GREEN3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_open16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_ascii_char67_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_ascii_char80_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_ascii_char83_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_ascii_char85_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_ascii_char112_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_ascii_char117_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\France.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GetResponse.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenPrinter32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_16.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_16.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history24b_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_green16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconCatcherClear16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconProgram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import_321.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inetcpl32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice_incoming_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoices.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Japan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KTChatLuong.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_track_blue16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_track_orange16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lists%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lists.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainLogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manifest.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manifest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My-DocumentsImport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My-Pictures.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New_CO.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_document16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewDocument.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nga1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nga2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nga3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhat2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhat3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrderList.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Partner.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paste_clipboard24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment_incoming16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment_incoming24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phap2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phap3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\port.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_preview16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase_ledger24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle_bin16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle_bin16_d.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecycleBinEmpty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecycleBinFull.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_doc16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Russian Federation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_all%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveAs.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scheduled_payment24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search16_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SendReceive1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SendReceive11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipmentlist.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spelling_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistics24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tax Fee.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaxInfor.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thokhai_Print32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tokhai_Delete32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tokhai_Edit32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tokhai_Find32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tokhai_New32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tokhai_Save32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfer_incoming16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Translating1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transportation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrungQuoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrungQuoc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrungQuoc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrungQuoc3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo24_h.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo24_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\United Kingdom%28Great Britain%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\United Kingdom%28Great Britain%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USD.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users24_h.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Van Information.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Viet Nam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VietNam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VietNam1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VietNam2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VietNam3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\views16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\views24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehousing.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WinXPSetV4 Icon 17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wordprocessing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

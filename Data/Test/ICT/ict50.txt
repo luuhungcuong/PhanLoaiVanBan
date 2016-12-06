@@ -1,0 +1,27 @@
+﻿Đúng lúc bạn tưởng rằng Google đã bỏ cuộc và nhượng bộ trước các mạng di động, chiếc điện thoại Google Phone lại tái xuất. Do Samsung thiết kế và mang tên gọi Nexus S, Google Phone gợi nhớ khá nhiều đến dòng máy ăn khách Galaxy S của Samsung nhưng với cấu hình mạnh hơn, nhiều tính năng "hoa lá cành" hơn và tiếp tục thử nghiệm mô hình kinh doanh không phụ thuộc vào nhà mạng. 
+
+Hãy cùng PCWorld mổ xẻ một số ưu điểm cũng như nhược điểm của Nexus S:
+
+"Hot" : Thuần khiết Google
+
+Rất hiếm khi bạn tìm được một chiếc điện thoại Android nào mà không bị nhà sản xuất chèn giao diện người dùng tuỳ biến đè lên nền giao diện gốc. Chính vì thế, Nexus S thực sự đặc biệt và khác biệt. Stock Android rất dễ cập nhật và hơn nữa, còn mang đầy đủ hương sắc tươi mới của phiên bản mới nhất 2.3.
+
+"Nguội" : T-Mobile
+
+T-Mobile sẽ hỗ trợ Nexus One với mức giá bán lẻ 199 USD kèm theo hợp đồng sử dụng dịch vụ trong vòng 2 năm. Nếu như bạn muốn dùng nó trên AT&T, hãy bỏ ra 529 USD để sở hữu bản không khoá. Thuật ngữ "Không khoá và không phụ thuộc vào mạng" sẽ gây hiểu lầm tại Mỹ bởi bạn không thể dùng Nexus S trên Verizon hay Sprint bởi con dế này không có loại ăngten cần thiết.
+
+Hot: Camera mặt trước
+
+Nexus S không phải mẫu điện thoại Android đầu tiên sở hữu camera mặt trước - vinh dự này thuộc về HTC Evo 4G, nhưng với sức mạnh phần mềm của Google, tính năng này mới có thể phát huy đến tối đa. Hiện Google có phần mềm hỗ trợ video chat riêng, vì vậy sẽ không có gì bất ngờ nếu trong tương lai, bạn còn có thể sử dụng cả ứng dụng video-conference chính thức.
+
+Nguội: Không 4G hay 3G+
+
+Thế hệ không dây kế tiếp được dự đoán sẽ là một xu hướng cực hot của năm 2011, thế nhưng Nexus S lại không nhạy cảm lắm với thực tế này. Nếu như muốn sử dụng 4G hay 3G+ trên điện thoại Android, dải lựa chọn của bạn vẫn sẽ là G2, MyTouch 4G của mạng T-Mobile hoặc HTC Evo và Samsung Epic của Sprint.
+
+Hot: Thanh toán di động
+
+Android 2.3 hỗ trợ một số tính năng phần cứng mới mà bạn có thể bắt gặp ở Nexus S. Đầu tiên là công nghệ kết nối cự ly gần NFC, cho phép điện thoại kiêm nhiệm chức năng của một chiếc thẻ tín dụng hoặc đọc thông tin từ các con chip RFID nhúng bên trong poster phim hay sticker dán.
+
+Nguội: Thiếu khe cắm thẻ nhớ MicroSD
+
+Gooogle Nexus S đã đi vào vết xe đổ của Apple khi chỉ có bộ nhớ trong 16GB mà không trang bị khe cắm thẻ nhớ, "bó tay bó chân" khả năng mở rộng dung lượng lưu trữ của người dùng. Tốt nhất là bạn chỉ nên nghe nhạc và xem video trực tuyến mà thôi. 

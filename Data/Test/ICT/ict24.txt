@@ -1,0 +1,63 @@
+﻿Công nghệ hình ảnh 3 chiều, cuộc chiến máy tính bảng trở nên khốc liệt hơn, lưu trữ trực tuyến và điện toán đám mây… được dự báo sẽ là những vấn đề công nghệ gây “sốt” trong năm 2011.
+
+Hệ điều hành Chrome OS được chờ đợi bấy lâu sẽ chính thức trình làng, hàng loạt mẫu máy tính bảng được hứa hẹn trong năm 2010 sẽ ra mắt thị trường, những chiếc điện thoại thông minh sẽ trở nên thông minh hơn. Facebook và Google sẽ tiếp tục hợp tác hay cạnh tranh với nhau.
+
+Và đây là những vấn đề công nghệ chính đáng chú ý trong năm 2011 sắp tới:
+
+Ứng dụng công nghệ 3D
+
+Nếu như trong năm 2010, 3D được xem là một bước đột phá lớn thì sang năm 2011, công nghệ này được dự báo sẽ vươn lên đỉnh cao mới. Hãng Sky đã có kênh truyền hình 3D TV đầu tiên của mình, đánh dấu việc đưa công nghệ 3D tới các hộ gia đình. Cùng với đó là sự bùng nổ của đầu đĩa 3D Bluray với đủ mức giá phù hợp với túi tiền của từng đối tượng người tiêu dùng, sự xuất hiện của những chiếc laptop 3D, nội dung 3D ngày càng phong phú. Máy chơi game cầm tay Nintendo 3DS cũng được hứa hẹn sẽ lên kệ. Ngoài ra, hàng loạt các bộ phim được trình chiếu dưới dạng 3D chắc chắn sẽ khiến công nghệ này gần gũi với mọi người hơn.
+
+HTC đã nhanh chân gia nhập trào lưu 3D bằng mẫu điện thoại di động 3D đầu tiên. Apple cũng đã bắt đầu gia nhập cuộc chơi mới mẻ này bằng việc đăng ký sở hữu bằng sáng chế một màn hình hiển thị 3D tự động đơn giản, đẹp mắt và dĩ nhiên không cần đeo kính dành cho các thiết bị cầm tay như iPod, iPhone và iPad.
+
+Cuộc chiến máy tính bảng khốc liệt hơn
+
+2011 được dự báo sẽ là năm chứng kiến những cuộc chiến giữa những chiếc máy tính bảng đình đám như BlackBerry PlayBook của RIM hay iPad 2 của Apple. Đặc biệt là sự góp mặt của đội quân tablet Android ngày càng đông đảo. Các phiên bản Android 2.3 và Android 3.0 xuất hiện sẽ khiến những chiếc tablet Android trở nên thân thiện hơn. Ngoài ra, còn phải kể đến bộ vi xử lý Oak Trail của Intel dành riêng cho tablet sẽ được đưa vào sản xuất đầu năm tới.
+
+Chúng ta cũng hy vọng sẽ có sự góp mặt của những chiếc máy tính bảng do gã khổng lồ tìm kiếm Google sản xuất. Năm 2011 chắc chắn sẽ là năm tablet ào ạt đổ bộ ra thị trường.
+
+Điện toán đám mây và lưu trữ trực tuyến
+
+Năm 2011 là năm đánh dấu sự xuất hiện của hệ điều hành Chrome OS trên các sản phẩm công nghệ. Đây là hệ điều hành hoạt động hoàn toàn bên trong một trình duyệt, có nghĩa là mọi người có thể tiếp cận nó qua Chrome browser trên mọi máy tính, kể cả Windows PC hoặc Mac. Đặc biệt Chrome OS hỗ trợ điện toán đám mây (cloud computing), trong đó, các chương trình không cần cài đặt trên máy tính mà được truy cập qua trình duyệt, còn dữ liệu của người sử dụng sẽ nằm trên máy chủ Internet thay vì được lưu trong PC.
+
+Điều này rất hữu ích bởi hiện nay chúng ta cần làm nhiều việc trên máy tính ngay trên đường hơn là tại nhà, chúng ta cũng chuyển từ thiết bị này sang dùng thiết bị khác liên tục: smartphone sang tablet, desktop sang laptop… Điện thoại và tablet không có khả năng lưu trữ tất cả những gì chúng ta muốn. Vì vậy, lưu trữ bằng điện toán đám mây là phương sách tốt nhất.
+
+Lưu trữ trực tuyến cũng đang là một xu hướng được nhiều người quan tâm. Các mạng lưới của chúng ta đã đủ nhanh và có công nghệ nén đủ tốt cho nhu cầu lưu trữ các bộ phim và bản nhạc. Hãng Netflix (Mỹ) đang có kế hoạch trình làng một dịch vụ lưu trữ video. Riêng ở Anh đã xuất hiện dịch vụ iPlayer cho phép người dùng xem và tải các chương trình về máy tính, thậm chí là thông qua cả điện thoại di động.
+
+Kể từ khi Apple thâu tóm dịch vụ lưu trữ nhạc Lala.com hồi đầu năm nay, một phiên bản lưu trữ của iTunes cũng đang được chờ đợi ngày ra mắt.
+
+Các dịch vụ định vị
+
+Trong năm 2010, các dịch vụ định vị đều đang ở trong giai đoạn “thai nghén” nhưng năm 2011, những dịch vụ này sẽ phát triển và đóng một phần quan trọng trong cuộc sống chúng ta. Dịch vụ Google Maps sẽ giúp bạn có được cái nhìn toàn cảnh về nơi mà bạn đang lên kế hoạch đi du lịch hoặc các địa điểm mua sắm. Facebook cũng đang thúc đẩy dịch vụ Deal kết hợp FourSquare-a-like Places với Groupon-esque.
+ 
+Dịch vụ định vị trong tương lai sẽ tích hợp với các ứng dụng khác để giúp chiếc smartphone của bạn thông minh hơn, có thể tùy chỉnh chế độ theo địa điểm mà bạn đang có mặt. Ví dụ với Nokia Situations, điện thoại của bạn sẽ tự động tắt chuông khi bạn đang ở những nơi cấm tiếng ồn. Các nhà sản xuất điện thoại Android cũng đang nghiên cứu để tích hợp các tính năng kiểu này vào sản phẩm của họ.
+
+Augmented Reality (công nghệ tương tác thời gian thực - AR)
+
+AR (Augmented Reality) là công nghệ sử dụng tín hiệu từ hình ảnh thực tế thông qua định vị GPS, camera, micro rồi cung cấp cho người dùng những thông tin cụ thể. Công nghệ này thường được biết đến với các ứng dụng dẫn đường thế hệ mới, giúp người dùng tương tác trực tiếp với môi trường xung quanh trên các điện thoại chạy iOS hay Android. Lấy thí dụ ứng dụng Google Sky map sẽ đưa thông tin chi tiết các ngôi sao hay thiên thể khi camera điện thoại chỉ đến. Hoặc trình duyệt Layar cung cấp về nhà ở, khu mua sắm, máy rút tiền ATM, nhà hàng nổi tiếng...
+
+Sang năm 2011, AR sẽ tiếp tục tiến tới trở thành công nghệ hàng ngày. Phiên bản thế hệ mới nhất của Google Earth đang cho chúng ta thấy cách để xóa nhòa ranh giới giữa thế giới thực và ảo ngày một rõ hơn.
+
+Màn hình tablet sắc nét hơn
+
+Các nhà sản xuất đã lỗi hẹn với người tiêu dùng trong việc đưa màn hình OLED vào sản phẩm máy tính bảng mà chỉ có thể đưa công nghệ màn hình này đến điện thoại di động. Chỉ có một lý do đơn giản: đó là nhu cầu quá lớn cho tấm màn hình OLED kích cỡ điện thoại di động. Tuy nhiên, những chiếc máy tính bảng sở hữu màn hình OLED lớn với hình ảnh sống động hơn, thời lượng pin dài hơn và thiết kế mỏng chắc chắn sẽ được trình làng trong năm 2011. Apple được đồn đoán sẽ mang công nghệ màn hình Retina Display cho iPad.
+
+Các vấn đề về chất lượng mạng di động
+
+Trong năm 2011, tất cả điện thoại smartphone, các ứng dụng lưu trữ trực tuyến và tablet 3G sẽ kết nối dễ dàng với các mạng di động cùng tốc độ siêu nhanh, siêu ổn định cũng như truy cập Internet tốc độ cao.
+
+Tuy nhiên, người dùng sẽ phải lựa chọn giữa việc truy cập đắt đỏ hoặc nghẽn mạng vì quá tải. Nhà nghiên cứu As John Levett của Jupiter Research giải thích “Năm 2010 là năm mà lưu lượng truy cập dữ liệu di động tăng đột biến do sự bùng nổ người dùng smartphone, điều đó khiến mạng 3G bị quá tải nghiêm trọng. Một số nhà khai thác mạng đã đối phó với tình trạng này bằng các gói dữ liệu với từng mức giá khác nhau – một xu hướng chắc chắn sẽ tăng nhanh – nhưng số lượng người dùng smartphone vẫn không ngừng tăng lên, do đó việc thử nghiệm mở rộng dung lượng mạng sẽ được tiến hành trong năm 2011”.
+
+Thanh toán bằng điện thoại di động
+
+Tại sao phải mang theo một đống giấy tờ hóa đơn bên người khi chiếc điện thoại của bạn có thể thực hiện được tất cả dịch vụ thanh toán từ hóa đơn siêu thị, vé máy bay…Trong năm 2011 tới, chiếc điện thoại của bạn có thể trở thành một chiếc thẻ Oyster Cards hay thậm chí là thẻ tín dụng.
+
+E-Ink (Mực điện tử)
+
+Trong mùa lễ Giáng Sinh năm nay, hãng bán lẻ trực tuyến Amazon đã tung ra thị trường hàng loạt các thiết bị sử dụng mực in điện tử. HTC hiện đang tiến hành thử nghiệm một loại công nghệ màn hình có thể tích hợp cả việc sử dụng mực điện tử cho các sản phẩm của hãng, trong khi đó thiết bị E-Ink màu đầu tiên đã được bán ra tại Trung Quốc hồi tháng trước.
+
+Sự kết hợp e-ink màu với thiết bị đọc sách điện tử cảm ứng của Sony đã mang lại cho người sử dụng những trải nghiệm tuyệt vời.
+
+Kho ứng dụng
+
+Hiện nay, các hãng công nghệ đang ồ ạt cho ra mắt hàng loạt các kho ứng dụng dành riêng cho từng loại thiết bị. Bên cạnh các cửa hàng ứng dụng thiết bị di động khác nhau, Apple đang chuẩn bị trình làng kho ứng dụng dành riêng cho máy Mac. Ngoài ra, khi Windows 8 ra mắt, nhiều khả năng sẽ có kho ứng dụng riêng cho nền tảng này.

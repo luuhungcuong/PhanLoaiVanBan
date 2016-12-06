@@ -1,0 +1,736 @@
+﻿Các nhà khoa học cảnh báo, loại máy thu hình 3 chiều (tivi 3D) đang gây sốt trên thị trường có thể làm choáng não bộ, gây căng mắt, nôn mửa và mệt mỏi ở người xem. Ngoài ra, càng ngồi gần màn hình loại tivi đời mới này, bạn càng cảm thấy khó chịu hơn với mức độ thậm chí nghiêm trọng hơn ngồi gần màn hình trong rạp chiếu bóng.
+
+Theo tờ Daily Mail, các nghiên cứu gần đây cho thấy tivi 3D thậm chí đã gây ra những trục trặc về sức khỏe thể chất đối với 20% số người xem chúng.
+
+Trong một thí nghiệm, các nhà nghiên cứu thuộc Đại học Eindhoven, Hà Lan đã yêu cầu 39 người tình nguyện đeo kính xem tivi 3D và đọc một số chữ hiện lên trên màn hình từ khoảng cách 3 mét. Bảy người trong số này đã gặp phải các triệu chứng khó chịu như căng mắt, hoa mắt nhìn vật một thành hai và muốn nôn mửa.
+
+Hồi đầu năm nay, trường Cao đẳng Nhãn khoa Hoàng gia Anh, Hiệp hội Y sĩ nhãn khoa và các chuyên gia trong ngành tuyên bố cần nghiên cứu thêm về những tác động lâu dài của tivi 3D. Tuy nhiên, họ thừa nhận các ảnh hưởng ngắn hạn từ việc xem loại tivi này rất rõ ràng.
+
+Người xem sẽ được lựa chọn giữa 2 loại tivi 3D "chủ động" và "thụ động" với tính năng trình chiếu hình ảnh theo các cách khác nhau.
+
+Loại tivi "chủ động" sẽ rẻ tiền hơn nhưng đòi hỏi các cặp kính "lọc" đặc biệt kèm theo. Ý tưởng cơ bản là, tivi hiển thị chương trình theo một loạt khung hình xoay đảo nhanh chóng - mắt trái, mắt phải, mắt trái, phải mắt - thay đổi với tốc độ khiến người xem thậm chí không thể phát hiện quá trình đó đang xảy ra.
+
+Để xem 3D, khán giả phải đeo một cặp kính chuyên dụng (có giá 77,7 USD và hoạt động nhờ năng lượng của một cục pin nhỏ) nhằm bảo vệ mắt trước sự biến đổi của các khung hình ở tốc độ cao, đồng bộ hóa với các hình ảnh được hiển thị trên tivi thông qua kết nối không dây tới máy thu hình. Bộ não do đó bị đánh lừa tạo ra một hình ảnh 3D trong đầu người xem.
+
+Trong khi đó, công nghệ "thụ động" dựa trên một bộ lọc phân cực đặc biệt trên tivi để phân chia hình ảnh thành các bộ phận mắt trái/mắt phải của nó. Khán giả có thể xem hình ảnh phân chia sau đó nhờ sử dụng một cặp kính phân cực tạo ảnh 3D đơn giản, tương tự nhưng các cặp kính được phát cho khán giả xem phim 3D ngoài rạp.
+
+Tiến sĩ John Lee, Chủ tich trường Cao đẳng Nhãn khoa Hoàng gia Anh, phát biểu trong một cuộc phỏng vấn rằng: "Bạn không thể tàn phá đôi mắt của mình bằng cách xem 3D, nhưng nếu dành quá nhiều thời gian cho thú vui đó, bạn có thể hứng chịu một cơn đau đầu nhẹ vì căng mắt".
+
+Khoảng 10% dân số Anh có thị giác kém, đồng nghĩa với việc rất khó để họ xem được hiệu ứng 3D trong các bộ phim và trò chơi video. Thay vào đó, họ nhìn thấy các hình ảnh mờ nhòe và hậu quả sẽ là bị đau đầu và mỏi mắt.
+
+Các chuyên gia khuyến cáo, không nên cho phép trẻ em dưới 8 tuổi thường xuyên sử dụng kính 3D bởi vì cơ mắt của chúng vẫn còn đang phát triển. Để tránh rắc rối từ các vụ khiếu kiện, một số hãng sản xuất điện tử thậm chí đã tung ra những cảnh báo rằng xem tivi 3D có thể gây cảm giác "say tàu xe, mất phương hướng và căng mắt".
+Các nhà khoa học Australia đã phát triển thành công một thiết bị thông minh được hứa hẹn sẽ tạo ra một bước đột phá trong điều trị những chứng đau mãn tính. 
+
+Theo tờ Daily Mail, cơ chế hoạt động của loại chíp thông minh này là tiếp nhận những tín hiệu của các cơn đau mãn tính từ các dây thần kinh. Sau đó, chíp thông minh sẽ xử lý lại tín hiệu của cơn đau trước khi những tín hiệu này được truyền về trung tâm não bộ.
+
+Thiết bị có tên là INS2 được phát triển từ năm 2008 đến năm 2010 bởi các nhà khoa học thuộc Viện Công nghệ Thông tin và Truyền thông Quốc gia Australia (NICTA). Dự kiến, thiết bị giúp giảm đau này sẽ được thử nghiệm cấy trên cơ thể người vào đầu năm tới.
+
+INS2 bao gồm 2 chip thông minh và một bộ pin siêu nhỏ được sạc bằng công nghệ không dây gắn vào một vật tương thích nhỏ hơn đầu que diêm. Các nhà khoa học cho biết thiết bị này hiệu quả và tin cậy hơn những thiết bị khác bởi vì nó có thể được cấy gần xương sống.
+
+Thiết bị sẽ được cấy vào những vị trí bệnh nhân bị đau mãn tính như dây thần kinh cột sống. Sau đó, bộ vi xử lý bên trong con chíp này tiến hành đo và phân tích các tín hiệu ở các cấp độ khác nhau của cơn đau mãn tính. Tiếp theo, những tín hiệu này sẽ được bộ chíp thông minh xử lý lại theo mong muốn trước khi gửi về trung tâm não bộ.
+
+Các nhà khoa học thuộc NICTA cho biết rằng chip thông minh có thể được ứng dụng trong điều trị rất nhiều chứng đau mãn tính thường gặp như đau lưng, đau nửa đầu, tăng cường kiểm soát chứng chân tay run do bệnh Parkinson và các cơn co giật của bệnh động kinh.
+Các nhà thiên văn Anh vừa phát hiện ra một hành tinh sau này có thể trở thành vô cùng quý giá đối với loài người, bởi toàn bộ bề mặt của nó đều phủ kim cương. Từ lâu người ta đã hình dung có một thiên thể như vậy, nhưng nay đã chứng minh sự tồn tại thực tế của nó. 
+
+Nhờ kính thiên văn vũ trụ “Spitzer” của NASA, một nhóm các nhà thiên văn Anh đã phát hiện ra những tia bức xạ nóng phát ra từ một hành tinh nằm cách xa chúng ta 1.200 năm ánh sáng. Phân tích tia bức xạ đó, họ xác định được thành phần khí quyển của thiên thể này.
+
+Hàm lượng hơi nước trong khí quyển của nó thấp hơn nhiều so với các hành tinh cùng loại nhưng hàm lượng metan lại cao gấp hàng trăm lần. Như vậy tỷ lệ các nguyên tố của cacbon và hydrro lớn hơn 1 đơn vị (đáng ra chỉ là 0,5), nghĩa là không phù hợp với những lý thuyết hiện nay.
+
+Từ đó có thể kết luận: hành tinh lạ này (được gọi là WASP 12b) là hành tinh đầu tiên có cacbon nhiều hơn oxi. Nó sẽ là một khối khí khổng lồ, giống như Mộc tinh (Jupiter), nhưng theo tính toán lại nặng hơn Mộc tinh 1,4 lần. Hành tinh này quay quanh Sao lùn vàng, khá giống Mặt trời, với 1 chu kỳ là 26 giờ
+
+Phần lớn vật chất của WASP 12b là hydro khí, nhưng nhân của nó lại là hỗn hợp của kim cương, graphit và các dạng kết cấu khác của cacbon, có thể ở dạng lỏng. Không có các silicat quen thuộc phổ biến trên Trái đất của chúng ta và khác với Mộc tinh không bao quanh bởi khối khí loãng gọi là tầng bình lưu (stratosphere). .
+
+Phát hiện này cho phép giả định rằng Thiên hà có thể bao gồm những hành tinh có kích thước bằng Trái đất song rất giàu cacbon. Thành phần nguyên tố của các hành tinh đó khác hẳn Trái đất, mà theo nhà nghiên cứu hàng đầu về lĩnh vực này, TS Nikky Madkhusudkan thì “về lý thuyết, cơ bản là kim cương và graphit - những núi kim cương lớn hơn Trái đất nhiều lần”.
+
+Hành tinh WASP 12b có rất ít nước, thay vào đó là đại dương chứa những chất lỏng giàu cácbon như hắc ín (tất nhiên nhiệt độ phải đủ cao) và nếu trên hành tinh có sự sống (rất có thể vì có cacbon) thì  sinh vật trên đó đã trải qua những giai đoạn tiến hoá trong khí quyển metan và thiếu oxi.   
+
+Giả thuyết hợp lý nhất là sinh vật ấy giống với vi khuẩn hiếu khí metan thường sống trong bùn lấy hay đáy biển, nơi gần mỏ khí thiên nhiên, của Trái đất. Kỵ oxi, chúng không thể kết tụ lại thành quần thể, biến thành khuẩn đa bào dùng oxi để thở. Vì thế, nếu một ngày nào đó, con người đặt chân tới đây để tìm kiếm kim cương thì sẽ chẳng phải đối  đầu với kẻ thù nguy hiểm nào.
+
+Tiến sĩ Madkhusukan tin rằng có rất nhiều hành tinh kim cương trong vũ trụ. Song câu hỏi quan trọng phải giải đáp là những hành tinh như vật được tạo ra như thế nào. Chúng sẽ khắc hẳn sự hình thành của những hành tinh của hệ Mặt trời.
+
+Song dù sao thì giới thiên văn học cũng đánh giá cao phát hiện độc đáo của ông và cho rằng đây cũng là một dấu mốc đáng kể trong quá trình khám phá vũ trụ.
+Cơ quan Hàng không Vũ trụ Mỹ (NASA) mới đây đã cho công bố những hình ảnh mới nhất về phần khuất của Mặt trăng do tàu thăm dò quỹ đạo Mặt trăng (LRO) chụp được, có độ phân giải cao gấp 100 lần so với những hình ảnh trước đó.
+
+Tờ Daily Mail dẫn lời NASA cho hay, căn cứ trên những hình ảnh mới này kết hợp với những số liệu mới có được, có thể khẳng định ở phần sau của Mặt trăng dày đặc những hố thiên thạch cũng như các gò cao.
+
+Tiến sỹ Gregory Neuman, thuộc Trung tâm Vũ trụ Goddard của NASA cho biết, những hình ảnh rõ nét nhất về phần khuất của Mặt trăng được ghi lại bằng thiết bị đo độ cao bằng tia laser (LOLA) được đặt trên LRO. Và những số liệu và bản đồ địa hình mới này sẽ là những tư liệu tham khảo cơ bản cho các công trình nghiên cứu Mặt trăng trong tương lai.
+
+Neuman cho biết: “Sau hơn một năm tiến hành tiến hành thu thập chúng tôi đã có được gần 3 tỷ dữ liệu được cung cấp từ LOLA. Trong tương lai, chúng tôi hy vọng có thể tiến hành các chương trình nghiên cứu Mặt trăng với tốc độ này. Có khả năng chúng tôi sẽ lắp đặt những hệ thống dẫn đường như GPS để dẫn đường cho phi thuyền này”.
+
+Thiết bị đo độ cao bằng công nghệ laser (LOLA) đặt trên LRO hoạt động trên nguyên tắc là sử dụng một thấu kính quang học tách tia laser thành 5 chùm tia khác nhau. Sau khi các tia này được chiếu xuống bề mặt mặt trăng sẽ quay trở lại. Thiết bị này sẽ thông qua những tia bị phản xạ trở lại này để xác định thời gian để tia đi đến bề mặt, tốc độ ánh sáng từ đó tính toán cự ly giữa phi thuyền và bề mặt Mặt trăng.  
+
+Trong một tuyên bố trước đó, NASA khẳng định các nhà du hành vũ trụ Mỹ sẽ đổ bộ lên phần tối của Mặt trăng vào năm 2016 – 2018. Theo đó, những hình ảnh mới nhất về phần khuất của Mặt trăng có thể giúp họ có những bước tiến quan trọng trong việc thực hiện tham vọng này.
+Máy lượng tử đầu tiên trên thế giới - thiết bị vận hành theo các quy luật thống trị thế giới bên trong nguyên tử - đã được tạp chí Science bình chọn là đột phá khoa học lớn nhất năm 2010.
+
+Tờ Daily Mail đưa tin, tạp chí Science - một trong những tờ báo về nghiên cứu khoa học hàng đầu thế giới mới đây đã công bố danh sách những thành tựu khoa học quan trọng nhất trong năm 2010, bao gồm cả các tiến bộ trong phòng chống HIV, bộ gen nhân tạo, sơ đồ hóa mã gen của người Neanderthal, ... Tuy nhiên, phát minh về máy lượng tử đầu tiên trên thế giới đã được bình chọn là đột phá khoa học lớn nhất của năm.
+
+Là sản phẩm sáng chế của các nhà khoa học Mỹ tại Đại học California, Santa Barbara, máy lượng tử bao gồm một mái chèo kim loại nhỏ, vô hình với mắt thường và nhảy múa theo một nhịp điệu lượng tử.
+
+Sau khi làm mát mái chèo kim loại tới trạng thái năng lượng thấp nhất có thể, các nhà nghiên cứu đã tìm cách đưa nó vào một trạng thái hoàn toàn là cơ học lượng tử của chuyển động. Điều này đồng nghĩa với việc, mái chèo kim loại chuyển động theo những cách thức kỳ lạ, chưa từng thấy trong thế giới "vĩ mô" của cơ học cổ điển. Ví dụ như, thiết bị có thể ở hai trạng thái cùng một lúc - được gọi là "sự chồng lên nhau" - để vừa dao động một chút vừa lúc lắc rất nhiều trong cùng một thời điểm.
+
+Theo ban biên tập tạp chí Science, thành tựu trên của nhóm nghiên cứu do hai chuyên gia vật lý Andrew Cleland và John Martinis đứng đầu, xứng đáng là đột phá khoa học ấn tượng nhất năm 2010 vì "lần đầu tiên các nhà khoa học đã biểu thị được những hiệu ứng lượng tử trong vận động của một vật thể do con người tạo ra".
+
+"Xét về mặt khái niệm, điều này thật tuyệt vời vì nó mở rộng cơ học lượng tử sang một địa hạt hoàn toàn mới. Xét về mặt thực hành, nó mở ra một loạt khả năng khác nhau, từ các thí nghiệm mới, tạo sự kiểm soát lượng tử đối với ánh sáng, dòng điện và chuyển động, tới những thí nghiệm về các giới hạn của cơ học lượng tử và ý thức của chúng ta về thực tại trong tương lai".
+Các nhà vạt lý Viện công nghệ Massachussetts đã nghiên cứu thành công loại máy ảnh chụp xuyên tường.
+
+Thành công mới nhất của các nhà khoa học Mỹ sắp tới sẽ gây ra một sự chấn động thực sự. Họ phát minh ra một hệ thống truyền dẫn hình ảnh động femto giây.
+
+Ông Ramesh Paskhar Viện công nghệ Massachusetts (MIT, Hoa Kỳ) đứng đầu nhóm dự án Camera Culture, nghiên cứu thành công loại camera mới này cho biết: "Phát minh của chúng tôi cho phép chiếu những tia xuyên qua các vật ngăn cách giống như tia rơnghen nhưng lại không phải là tia rơnghen". 
+
+Bản chất hoạt động của hệ là ở chỗ chiếu những bức xạ ánh sáng có cường độ cao từ một máy phát laser femto giây. Ánh sáng có bước sóng cực ngắn bật lên chỉ kéo dài 1/1015 giây. Nó sẽ được phản xạ lại và đập vào đối tượng cần chụp. Nếu phía sau của cảnh chụp này còn có những đối tượng khác nữa, thì ánh sáng phản xạ luôn cả chúng và quay trở lại sensor của máy. Trong máy đã cài đặt phần mềm là thuật toán phức tạp, có thể lập tức tính thời gian và khoảng cách của mỗi điểm (pixel) phản xạ lại. Các dữ liệu thu được sẽ được sử dụng để tái hiện cảnh đã chụp.
+
+
+Hiện nay, hệ thống chụp “theo kiểu tia rơnghen” như vậy mới ở giai đọan nghiên cứu và thử nghiệm ban đầu. Buồng chụp còn gặp nhiều khó khăn do phải bao quát một khung cảnh quá rộng với nhiều đối tượng. Nhưng vài năm nữa có thể khắc phục được điều này để đưa vào sản xuất.  
+
+Phạm vi áp dụng của phát minh này rất đa dạng. Không chỉ được các tay săn ảnh trộm (paparazzi) hoặc những chàng Don Juan đào hoa quan tâm mà nó còn rất thuận tiện cho những ca mổ cấp cứu không thể đưa máy móc y tế đến chụp vì nạn nhân bị đè dưới một vật nặng (ví dụ trong các vụ động đất) hoặc khi khám nội soi mà thiết bị y tế bất lực.
+
+Thêm vào đó, nó sẽ được dùng trong ngành robot học, giúp cho các máy móc điều khiển có thể phân biệt rõ ràng hơn để đánh giá môi trường xung quanh.
+Một nhà nghiên cứu người Israel tuyên bố, ông đã tìm ra giải pháp ngọt ngào cho một vấn đề đang gây đau đầu thế giới - hàng núi đồ chất dẻo bỏ đi nằm chất chồng tại các bãi rác hoặc bị đổ ra biển và phải mất hàng thập niên, nếu không muốn nói hàng thập kỷ, để phân hủy.
+
+Song song với các đồng nghiệp thuộc Đại học Aachen ở Đức và Đại học Bath ở Anh, giáo sư Moshe Kol của Trường Hóa học thuộc Đại học Tel Aviv (TAU), Israel đang sử dụng tinh bột ngô và đường để giúp tạo ra loại chất dẻo "xanh" phục vụ việc sản xuất hàng trăm loại vật dụng khác nhau có cùng độ bền hoặc thậm chí bền chắc hơn so với các phiên bản phổ biến, làm từ dầu mỏ của sản phẩm.
+
+"Cấu trúc của các chất dẻo làm từ ngô này phụ thuộc vào nhiều tham số. Điều quan trọng nhất là đặc tính của các khối kết cấu, giống như các khối xếp hình Lego, giúp giữ vật liệu với nhau", giáo sư Kol cho biết trong một tuyên bố từ TAU trong tuần này.
+
+Tân Hoa xã đưa tin, các thí nghiệm ban đầu của giáo sư Kol đã tạo ra một loại cốc uống nước trong suốt, dùng một lần. Chiếc cốc này có vẻ ngoài và mang đến cảm nhận giống polystyrene hơn, mặc dù chỉ có thể đựng được chất lỏng dưới 50 độ C.
+
+Theo giáo sư Kol, ông đang cải tiến công nghệ để nâng khả năng chịu nhiệt và độ bền của vật liệu  mới. Theo công bố của vị giáo sư này, các axít polylactic hay vật liệu PLA mà nhóm các nhà khoa học đang nghiên cứu, được làm từ những nguyên liệu thực vật dễ phân hủy sinh học và tái tạo được như ngô, lúa mì hoặc cây mía. Chúng hiện đã được sử dụng trong chế tạo các sản phẩm màng mỏng như chai và túi xách.
+
+Giáo sư Kol tiết lộ thêm, ông vẫn đang tìm cách để phát triển vật liệu như thành một dạng thay thế cho thép và bêtông trong nhiều lĩnh vực công nghiệp. Chất dẻo làm từ ngô như trên sẽ không có độc tính và có thể phân hủy trong vòng vài tháng, thay vì hàng thế kỷ như các loại phổ biến hiện nay.
+
+Báo Telegraph dẫn lời một số nhà khoa học nhận định, những sản phẩm đầu tiên bằng chất dẻo loại mới dự kiến sẽ có mặt trên thị trường trong vòng 2-5 năm tới.
+Tiến sĩ Mark Gasson, trường Đại học Reading (Anh) là người đầu tiên phát hiện ra virus máy tính nhiễm vào những con chip y tế, phá hoại sức khoẻ của các bệnh nhân điều trị bằng những phương phá sinh điện tử hiện đại. 
+
+Tiến sĩ Gasson đã cấy vào dưới da cánh tay mình một con chip (loại linh kiện đã từng được cấy ghép cho các con vật hoang dã để nghiên cứu, bảo vệ chúng hoặc dùng để quản lý các vật nuôi cũng như dùng trong các hệ thống bảo mật) . Sau đó, nhà nghiên cứu đã cho con chip này nhiễm virus để thử xem nó ảnh hưởng như thế nào đến các thiết bị sinh điện tử dùng để cấy ghép cho các bệnh nhân. Kết quả đầu tiên là con chip “sống” này cho phép ông thông qua hệ thống bảo mật đã khởi động được chiếc điện thoại di động.  
+
+Nhưng nhà nghiên cứu lưu ý rằng nếu sau khi đã bị nhiễm virus, con chip được cấy vào chiếc máy tính, mà phần mềm của nó có khả năng tương tác và “mở” được các thiết bị khác tương tự thì nó sẽ phá huỷ hoạt động của những thiết bị này. Virus của Gasson chỉ là một vài dòng văn bản và chẳng gây ra thiệt hại gì nghiêm trọng song làm tổn thương hệ thống bảo vệ điện tử và rối loạn các thiết bị cấy ghép lên cơ thể bệnh nhân.  
+
+Nhà khoa học nhấn mạnh rằng những con chip cấy dưới da có thể kết nối với mạng, và chính người đó trở thành kẻ mang virus phá hoại bất cứ chương trình nào. Bởi vậy, nghiên cứu này có tính cảnh bảo quan trọng đối với y học hiện đại vì hướng điều trị bệnh bằng thiết bị điện tử đang phát triển mạnh.
+
+Lúc này con người đã trở thành trở thành kẻ lan truyền những mã vô cùng nguy hiểm gây lây nhiễm virus làm rối loạn hoạt động của các chip y tế cấy vào cơ thể người bệnh (ví dụ các ốc tai điện tử mang lại thính giác cho người điếc, chip điều chỉnh nhịp tim cho những người đau tim và nhiều thiết bị thử nghiệm khác chưa công bố và bán rộng rãi…).
+
+Theo Tiến sĩ Gasson trước mắt những con virus máy tính có thể rất nguy hiểm cho các bệnh nhân phải dùng máy kích thích tim (cardiostimulator), cho nên ngay từ bây giờ phải tính đến chuyện tương tự khi chúng chưa xảy ra.
+
+Vấn đề an toàn cho các thiết bị cấy ghép phải được lưu ý đặc biệt và phải có mật khẩu riêng cho từng thiết bị.. Khi thiết bị hoặc con chip nơi bệnh nhân đã vì virus mà bị loạn nhịp, cấn phải biết mật khẩu để kịp thời cấp cứu (khử virus) nên cần thiết phải xăm ngay trên da họ.
+
+Gasson cho rằng các thí nghiệm do ông tiến hành mới chỉ chứng minh được về mặt nguyên lý. Trong tương lai khi các thiết bị sinh điện tử phức tạp hơn phải hình dung ra được các kịch bản phá hoại của virus gây ra.  Ông nói: "Những cải tiến công nghệ luôn có mặt trái của chúng là đi kèm với những nguy cơ mới. Sự phát triển của ĐTDĐ mang lại rất nhiều tiện ích cho cuộc sống nhưng cũng khiến chúng ta phải đối mặt với những hiểm họa của vấn đề an toàn và nhiễm virus đối với các thiết bị sinh điện tử điều trị bệnh”.  
+
+Bình luận về công bố này, giáo sư Rafael Capurro chuyên gia về đạo đức sinh học Đức nói: “Việc dùng các thiết bị vi sinh học cấy và đeo trên người sẽ rất phát triển. Ví dụ ở trường hợp bạn rơi vào hôn mê phải đi cấp cứu, chiếc vòng đeo tay hay một con chip cấy trên cơ thể bạn có  thể kể lại với bác sĩ mọi dữ liệu về sức khoẻ của bạn, giúp vào việc điều trị kịp thời. Thế nhưng mặt khác nó cũng có thể bị trở thành kẻ địch phá hoại từ bên trong cơ thể bạn, do một sự vô tình của ai đó khiến nó bị nhiễm virus máy tính”.
+Sau cuộc hành trình kéo dài 33 năm, tàu Voyager 1 mang theo thông điệp của nền văn minh nhân loại đã vượt qua 17,7 tỷ km, tiến sát đến vùng rìa của hệ Mặt trời.
+
+Trong một tuyến bố của NASA đưa ra hôm 13/12 vừa qua, trong vòng 4 năm tới, tàu Voyager 1 sẽ vượt ra khỏi Hệ Mặt trời.
+
+NASA cho hay, ở vị trí hiện tại của tàu Voyager 1, tốc độ trung bình của các hạt mang điện này gần như bằng 0. Điều này cũng có nghĩa là con tàu thám hiểm này đã tiến sát đến vùng rìa ngoài của Hệ Mặt trời.
+
+“Điều đó có nghĩa rằng, nhật mãn (heliopause) không còn cách Voyager 1 bao xa nữa. Voyager 1 đang tiến vào vùng không gian liên hành tinh”, Ed Stone, một nhà khoa học thuộc chương trình phát triển tàu Voyager khẳng định.
+
+Từ năm 2004, tàu thám hiểm không người lái này đã tiến vào một vùng không gian nơi tốc độ các hạt mang điện do các cơn gió Mặt trời mang đến giảm xuống chỉ còn 1 triệu dặm mỗi giờ. Đó là khu vực gió mặt trời tiếp xúc với vật chất trong vùng không gian giữa các vì sao.
+
+Vào tháng 6 vừa qua, khi các hạt mang điện va vào vỏ bên ngoài Voyager 1 có tốc độ bằng với tốc độ con tàu, các nhà khoa học kết luận rằng tốc độ của gió Mặt trời lúc này bằng 0. Các nhà khoa học đã tiến hành kiểm tra lại thiết bị được sử dụng để đo tốc độ của các hạt mang điện xung quanh con tàu để đảm bảo không có sơ suất gì xảy ra.
+
+Rob Decker người phụ trách thiết bị đo tốc độ các hạt mang điện xung quanh tàu nói: “Khi chúng tôi xác định chắc chắn rằng tốc độ đo được bằng 0, tôi đã cảm thấy kinh ngạc vô cùng. Điều đó cũng chứng tỏ rằng, sau hành trình 33 năm, tàu Voyager sẽ mang đến cho chúng ta những phát hiện mới”.
+
+NASA cũng cho biết, vào năm 2014, sau khi vượt qua vùng biên này, số lượng các hạt mang điện bị nhiệt độ cao ở vị trí hiện tại của tàu sẽ giảm xuống nhanh chóng. Thay vào đó là những hạt mang điện nhiệt độ thấp trong không gian giữa các vì sao.
+
+Thông tin cụ thể về sự kiện này đã được báo cáo tại Hội nghị Vật lý học địa cầu 2010 tổ chức tại San Francisco.
+
+Tàu Voyager 1 được phóng vào vũ trụ vào 5/9/1977. Ban đầu tàu Voyager 1 được thiết kể để thám hiểm sao Mộc và sao Thổ tuy nhiên nó vẫn tiếp tục cuộc hành trình tiến xa vào vũ trụ cho tới ngày nay.
+
+Bên trong tàu vũ trụ có một trong hai Đĩa Vàng Voyager. Đĩa ghi này có chứa các âm thanh và hình ảnh lựa chọn để thể hiện sự đa dạng của cuộc sống và văn hoá trên Trái đất. Nó được tạo ra để gửi cho bất kỳ hình thức sự sống thông minh ngoài Trái đất nào, hay cho con người tương lai, có thể tìm thấy nó.
+
+Sau Voyager 1 vài tuần, tàu Voyager 2 tiếp tục được phóng vào vũ trụ. Mặc dù vậy, do thiết kế quỹ đạo khác nhau nên tốc độc của tàu Voyager 2 khá chậm và hành trình cũng khác với tàu Voyager 1.
+
+Sau khi hoàn thành nhiệm vụ thám hiểm các hành tinh, tàu Voyager 1 sẽ bay về phía bắc còn tàu Voyager sẽ bay lệnh về phía Nam một chút. Chúng được giao nhiệm vụ khám phá vùng không gian giữa các vì sao phía trên và dưới so với Hệ Mặt trời.
+
+Hiện tại, tàu Voyager 2 cách Mặt trời 14,1 tỷ km với tốc độ 56330 km mỗi giờ. Theo báo cáo của NASA, trong tương lai không xa, Voyager 2 cũng sẽ tiến sát đến vùng biên của Hệ Mặt trời.
+Nhà robot học nổi tiếng người Anh Kenvin Warwick, giáo sư trường Đại học Reading (Anh) đã chế tạo được một con robot, điều khiển bằng một bó tế bào thần kinh của chuột, đặt trong môi trường là dung dịch chất dinh dưỡng. 
+
+Tạp chí “Popular Mechanics” thông báo nhóm các nhà nghiên cứu do Warwick đứng đầu đã nuôi các nơron thần kinh chuột trong một khối gồm 128 vi điện cực. Con robot này có thể tự đi mà không cần đến một bộ vi xử lý nào, vì mọi hoạt động đều được chỉ huy bởi “bộ não chưa hoàn chỉnh” của chuột.
+
+Nếu như được chiếu sáng, robot sẽ nhận biết khi tiến tới gần một vật chắn ngang đường. Lúc này các tín hiệu về chướng ngại vật sẽ truyền bằng sóng vô truyến tới điện cực nằm trong “bộ não”. Sau khi não xử lý thông tin nó sẽ ra lệnh cho bộ phận chuyển động cách tránh chướng nại vật đó.  Mối liên hệ này nếu lặp đi lặp lại sẽ được củng cố, hiệu quả và tốc độ chuyển động của robot sẽ tăng lên.
+
+Điều rất đáng chú ý là về nguyên tắc chẳng có gì hạn chế sự phát triển tiếp của các nơron trong môi trường dinh dưỡng và do vậy chúng hoàn toàn có thể tự hoàn thiện mình.
+
+Hiện nay các nhà phát minh dự kiến sẽ nuôi “bộ não” tới khi nó đạt được 30 triệu nơron (hãy so sánh bộ não của chúng ta có vào khoảng 100 tỷ tế bào thần kinh như vậy) và sau đó, họ sẽ chuyển sang thí nghiệm với các tế bào thần kinh con người.
+Bạn sẽ nhìn thấy những gì nếu ở tiến thẳng về phía một lỗ đen? Kết quả thu được từ cuộc khảo sát bầu trời bằng tia hồng ngoại 2MASS đã giúp các nhà khoa học tạo dựng những bức ảnh cận cảnh ấn tượng về một lỗ đen trong thiên hà bao la.
+
+Các hình ảnh tạo dựng bằng máy tính cho thấy những đặc điểm kỳ dị của lỗ đen.
+
+Alain Riazuelo thuộc Viện Vật lý thiên văn Paris, phát biểu trên tờ Daily Mail: "Lỗ đen có lực hấp dẫn mạnh đến mức ánh sáng bị bẻ cong về phía nó một cách dễ nhận thấy, gây ra một số biến dạng hình ảnh rất khác thường.
+
+Mọi ngôi sao trong trạng thái bình thường có ít nhất hai hình ảnh sáng chói nằm hai bên của lỗ đen. Gần lỗ đen, bạn có thể thấy toàn bộ bầu trời, ánh sáng từ mọi hướng bị bẻ cong xung quanh và quay trở lại phía bạn".
+
+Các lỗ đen được cho là trạng thái dày đặc nhất của vật chất. Người ta đã thu được bằng chứng gián tiếp về sự hiện diện của chúng trong các hệ sao nhị phân và trung tâm của các quần tinh cầu, các thiên hà và các chuẩn tinh.
+
+
+Bức ảnh gốc ban đầu, khi lỗ đen chưa được cho thêm vào, gần như chụp lại phần trung tâm của Đám mây Magellan lớn. Trên đó, chúng ta có thể thấy phần cực nam của Dải Ngân hà cùng với (từ trái sang phải) hai ngôi sao sáng Alpha và Beta Centauri, chòm sao Thập tự phương Nam và tiếp đến là chòm sao Argo Navis khổng lồ, hiện đã bị tách thành ba chòm sao (từ trái sang phải: Carina, Vela và Puppis).
+
+Ở bên phải của bức ảnh, điểm sáng nhất là sao Thiên lang thuộc chòm sao Đại khuyển. Ngôi sao sáng thứ hai, gần thiên hà LMC là Canopus. Ngôi sao sáng nhất của phần dưới của bức ảnh là Achernar, nằm ở rìa chòm sao Eridanus.
+
+Biến dạng do lỗ đen giả định gây ra đã được ghi vào một điểm ở trung tâm của bức ảnh.
+
+
+Các vòng tròn màu xanh nhạt thể hiện hai hình ảnh phản chiếu của Đám mây Magellan nhỏ. Các vòng tròn đỏ cho thấy hình ảnh của hai ngôi sao Alpha và Beta Centauri. Các vòng tròn màu vàng thể hiện hai hình ảnh của ngôi sao Gamma Crucis (ngôi sao đỏ đậm hơn, ở vị trí cao nhất của chòm sao Thập tự phương Nam). Hai hình ảnh của sao Canopus được biểu diễn bên trong các vòng tròn trắng. Hình ảnh của sao Thiên lang có thể nhìn thấy ở bên trái của lỗ đen (màu nâu). Tất cả đã bị lỗ đen đẩy khỏi trạng thái ban đầu. Ảnh: IAP.
+
+Một hình ảnh ma của sao HD 49359, được khoanh tròn màu xanh ở rìa của lỗ đen. Ảnh: IAP.
+Khi xướng danh Andrei Konstatinovitch Geim là người có vinh dự được trao giải Nobel, nhiều người Nga còn ngỡ ngàng vì họ chưa từng nghe đến cái tên lạ này. Người ta đã phải đặt câu hỏi, Andrei Geim, ông là ai?
+
+Andrei Konstaninovitch sinh năm 1958 tại Sochi trong một gia đình kỹ sư. Năm 1975 ông tốt nghiệp với huy chương vàng tại Trường Trung học số 3 tại Nakchika,thủ đô nước CH tự trị Kabardino-Balkaria. Trong một cuộc phỏng vấn, ông nói ông cảm thấy mình là người châu Âu nhưng trong dòng máu có 25% là người karbadino-balkaria.
+
+Sau khi tốt nghiệp phổ thông, ông thi vào Đại học Tài chính tại Matxcơva nhưng trượt vì lý lịch: ông thuộc người Đức thiểu số. Ông phải tìm một con đường khác để được vào đại học. Vì vậy, làm công nhân một năm ở nhà máy điện Nalchika rồi ghi tên học hàm thụ Đại học Vật lý kỹ thuật Matxcơva. Geim tốt nghiệp xuât sắc với toàn điểm 5 (trừ một điểm 4 về môn Kinh tế chính trị học xã hội chủ nghĩa) vào năm 1982.
+
+Ông xin làm nghiên cứu sinh và sau 5 năm bảo vệ luận án phó tiến sĩ tại Viện Vật lý chất rắn, thuộc VHLKH Liên Xô. Sau đó làm việc tại Viện những vấn đề vi điện tử và các vật liệu đặc biệt tinh khiết mới thành lập.  
+
+Năm 1990, Geim nhận được học bổng của Hội Hoàng gia Anh và đã làm việc tại các trường Đại học Anh, Đan Mạch, Hà Lan. Từ năm 2001, ông quay lại làm việc tại ĐH Manchester rồi được phong giáo sư danh dự tại ĐH công nghệ Delf, trường Cao đẳng kỹ thuật Zurich và Đại học Antwerpen.
+
+Năm 2008 ông được mời làm viện trưởng Viện Max Planck tại CHLB Đức, nhưng ông đã từ chối. Vợ ông, bà Irina Grogorieva làm việc cùng phòng thí nghiệm của ông.
+
+Trong số những thành tựu khoa học, ông đã chế ra được băng dính tắc kè (loài bò sát có thể bò trên trần mà không bị rơi vì bàn chân có kết cấu đặc biệt). Vào năm 2000, những thí nghiệm dùng nam châm để làm một con bài nhảy lên đã khiến ông được trao giải Ig Nobel, giải thưởng dành cho những phát minh ngớ ngẩn nhất. Nghĩa là con người thông minh này đã từng… rất đần độn và được những 2 giải Nobel đối nghịch nhau.
+Các nhà phát minh Mỹ đã cho ra đời một loại giày đặc biệt có gắn một thiết bị radar giúp người sử dụng định vị chính xác khu vực mù tín hiệu GPS.
+
+Tờ Popular Science cho hay, sự phổ biến của các thiết bị GPS giúp cho việc đi lại của con người trở nên thuận tiện hơn. Tuy nhiên, ở những khu vực đặc thù bị mù tín hiệu, GPS sẽ rất khó để định vị chính xác mục tiêu. Làm thế nào để giải quyết được vấn đề này, từ lâu đã trở thành một câu hỏi đau đầu đối với các nhà khoa học. 
+
+Sản phẩm giày radar của các nhà phát minh Mỹ vừa được công bố có thể coi là giải pháp hoàn hảo cho vấn đề đau đầu nói trên.
+
+Từ trước tới nay, để định vị tại những khu vực mù tín hiệu GPS, người ta thường sử dụng đơn vị đo lường quán tính (IMU). Tuy nhiên, việc định vị thông qua IMU cần căn cứ trên vị trí GPS cuối cùng cũng như tốc độ và phương hướng của mục tiêu để tiến hành tính toán. Vì vậy, chỉ cần một sai sót nhỏ thì quá trình tính toán có thể dẫn đến những sai lệch nghiêm trọng. Thêm nữa, khi mục tiêu mất tín hiệu GPS càng lâu thì sự sai lệch sẽ càng lớn. IMU thậm chí có thể đoán định một mục tiêu đứng yên thành một mục tiêu đang chuyển động.
+
+Để giải quyết vấn đề này, các nhà khoa học thuộc trường Đại học North Carolina State và Đại học Carnegie Mellon của Mỹ đã phát minh ra loại giày radar đặc biệt, có thể giúp cho người sử dụng định vị chính xác tại các khu vực mù tín hiệu.
+
+Thiết bị radar gắn trong những đôi giày này có nhiệm vụ theo dõi sát sao những biến đổi khoảng cách giữa chân người sử dụng và mặt đất. Khi khoảng cách này không thay đổi trong một khoảng thời gian dài, nó sẽ tự phán đoán rằng mục tiêu đã dừng lại, đồng thời truyền thông tin về IMU.
+
+Thiết bị đặc biệt này sẽ giúp IMU định vị chính xác hơn đặc biệt là đối với những mục tiêu ngừng chuyển động.
+
+Các nhà khoa học tin tưởng rằng, thiết bị của họ đặc biệt hữu ích đối với những người công nhân phải làm việc dưới lòng đất, nhất là làm việc trong đường hầm và những tòa nhà lớn. Trong những tình huống nguy hiểm, nó sẽ giúp cho việc xác định vị trí của những người bị nạn chính xác hơn.
+Một công ty Israel đã phát minh ra chiếc quần đặt biệt giúp những người bán thân bất toại có thể đứng lê và đi lại như một người bình thường.
+
+Chiếc quần đặc biệt có tên “ReWalk” này được thiết kế bởi Amit Goffer một người đàn ông Israel. Vào năm 1997, Goffer bị tan nạn xe hơi khiến toàn thân ông đều bị liệt. Từ đó, Goffer bắt đầu nghiên cứu chế tạo một thiết bị có thể thay thế chiếc xe lăn. 
+
+ReWalk nặng khoảng 16 kg, được sử dụng để mặc ở bên ngoài. ReWalk được cấu tạo từ thiết bị cảm ứng vận động và những giá đỡ chạy bằng điện lắp ở các khớp chân. Nhờ vậy, nó có thể cảm nhận được những động tác nhỏ nhất cũng như sự thay đổi trọng tâm của những người bị liệt, từ đó giúp họ có thể đứng lên, đi lại thậm chí leo cầu thang như một người bình thường.
+
+Sau khi chế tạo thành công ReWalk, Goffer đã thành lập hẳn một công ty với tên gọi là Argo Medical Technologies nhằm sản xuất hàng loạt và bán ReWalk rộng rãi trên thị trường. Sau nhiều năm thử nghiệm lâm sàng tại Israel và Mỹ, thiết bị độc đáo này sẽ được ra mắt thị trường vào tháng 1 tới đây.
+
+Giám đốc kinh doanh của Argo, Oren Tamari nói: “ReWalk là một thiết bị người – máy. Bản thân máy móc không thể đi lại được. Những người sử dụng cũng không thể tự đi lại được một cách bình thường. Chỉ khi cả hai kết hợp với nhau thì thiết bị này mới phát huy tác dụng”.
+
+Tamari cho biết, mỗi chiếc quần ReWalk có giá khoảng 100 nghìn USD. Sử dụng thường xuyên ReWalk còn có thể giúp những người bị bán thân bất toại có thể tránh được những căn bệnh thường thấy về tiết niệu, tiêu hóa, tim mạch,…
+
+Những người từng sử dụng ReWalk đều khẳng định, chiếc quần đặc biệt này đem lại cho họ rất nhiều lợi ích. Radi Kaiuf, một người từng sử dụng ReWalk nói: “Khi tôi sử dụng ReWalk, cảm giác như tôi có thể điều khiển cơ thể mình trở lại. Thật là tuyệt vời”.
+
+Mặc dù đã chế tạo thành công thiết bị giúp những người bán thân bất toại có thể đứng và đi lại tuy nhiên bản thân Goffer lại chưa bao giờ dùng đến ReWalk. Bởi vì từ cổ trở xuống, cơ thể của Goffer hoàn toàn bị liệt. Trong khi đó, ReWalk lại đòi hỏi người sử dụng những thao tác bằng tay và vai.
+
+Tuy nhiên, Goffer cũng tiết lộ rằng, Công ty Argo đang tiến hành nghiên cứu và cho ra đời một loại thiết bị để hỗ trợ những người bị liệt hoàn toàn cả tứ chi như vậy.
+Kênh Discovery đưa tin, các nhà khoa học Anh đã tạo ra một bước đột phá trong công nghệ sản xuất người máy khi phát triển được một loại robot thông minh mới, có khả năng đọc hiểu và học hỏi trong thế giới thực.
+
+Dù sở hữu hình dạng không bắt mắt nhưng robot có tên gọi "Marge" được đánh giá khá thông minh. Cô nàng có thể tìm và sửa các từ bị viết sai lỗi chính tả.
+
+
+"Marge" cũng tự rút ra những tri thức rằng: Barclays là một ngân hàng, Strada là một nhà hàng và cả hai đều tọa lạc ở Anh. Cô nàng robot này thậm chí đủ thông minh để đọc hiểu báo New York Times (Mỹ) và website của hãng thông tấn BBC.
+
+
+Những người sáng tạo ra "Marge" là Ingmar Posner và Paul Newman thuộc trường Đại học Oxford (Anh) cùng với cộng sự Peter Corke tại Đại học Kỹ thuật Queensland (Australia). Các nhà khoa học này hy vọng "Marge" cũng như những phiên bản tương lai của cô nàng robot có thể giao tiếp được trong thế giới thực bằng cách sử dụng các từ và cụm từ như con người vẫn dùng. Dẫu vậy, để đạt được điều này, các nhà phát minh cần phải vượt qua vô vàn thách thức.
+
+
+"Nhận diện văn bản là việc tương đối khó vì văn bản là một thứ vô cùng biến ảo. Các chữ viết có thể xuất hiện dưới nhiều dạng, ở nhiều nơi, trong nhiều kích cỡ và tất nhiên thế giới thực luôn tràn ngập các phản ánh, sự bưng bít, ...", ông Newman thừa nhận. Đối với một người biết chữ, việc đọc là vấn đề đơn giản. Nếu một chữ thay đổi kích thước hoặc ánh sáng trong phòng biến đổi, bạn sẽ không ngay lập tức trở thành mù chữ. Đó là bởi vì bộ não con người có thể nắm bắt các bước nhảy trực quan logic.
+
+
+Một robot, hay cụ thể hơn là các thuật toán toán học được cài đặt trong "bộ não" của một robot, không thể bắm bắt được các bước nhảy trực quan như vậy. Theo Edward Grant - giám đốc Trung tâm Máy móc thông minh và robot thuộc trường Đại học Bắc Carolina (Mỹ), đối với một robot, sự thay đổi về ánh sáng, góc hoặc kích thước đồng nghĩa với việc chúng học đọc lại tất cả.
+
+
+Do hạn chế trên, một robot có khả năng đọc hay biết chữ thường chỉ được tìm thấy trong phòng thí nghiệm, nơi ánh sáng, góc và các yếu tố khác bất biến, giúp robot không bị lẫn lộn.
+
+
+Tuy nhiên, bằng một động thái đơn giản nhưng khôn ngoan, các chuyên gia thuộc ĐH Oxford đã cài phần mềm nhận diện văn vản, gồm cả tính năng kiểm tra chính tả và từ điển, vào bộ não của Marge - một robor nhỏ có bánh xe lăn. Thông qua một số thủ thuật mới để chia tách phần chữ viết với các quy tắc cấu tạo văn bản khác cũng như chỉnh sửa hình ảnh dựa vào việc kiểm tra chính tả đơn giản và tra nghĩa của từ trong từ điển, Marge đã có thể lấp đã có thể thu hẹp khoảng cách về trực giác.
+
+
+Robot được chế tạo với nhiều hình dạng và kích cỡ, từ xe hơi tự lái của Google đến đồ chơi cho trẻ nhỏ. Sáng chế của các nhà khoa học Anh có thể cho phép ra đời những hệ thống định vị gắn trên xe hơi không còn phụ thuộc hoàn toàn vào GPS (một sự trợ giúp lớn khi ở trong các đường hầm dài hoặc các công trình dưới lòng đất) hoặc một robot có thể dẫn bạn đến một món quà hoàn hảo ở trung tâm mua sắm. Nhóm nghiên cứu Oxford hiện đã phát triển và đang thử nghiệm phiên bản mới hơn của Marge - robot có tên gọi Lisa.
+
+
+Do trí thông minh của Marge đến từ phần mềm, không phải phần cứng nên điều đó có nghĩa rằng, các nhà khoa học cũng có thể ứng dụng nó trong các thiết bị ngoài robot như điện thoại di động và thậm chí kính đeo mắt. Hiện vẫn còn rất nhiều việc phải làm trước khi các hậu duệ công nghệ của Marge, kể cả Lisa, có thể tồn tại được trong điện thoại của bạn. Tuy nhiên, khi viễn cảnh đó thành hiện thực, một câu hỏi lớn hơn được đặt ra là: "một robot biết chữ không thể làm được điều gì?" thay vì "chúng có thể làm được gì?".
+Việc phát hiện hài cốt của những người cổ sống ở Mehico đã gây mối nghi ngờ học thuyết cố điển về sự định cư của những người di dân sang châu Mỹ.
+
+Theo một thuyết đã được thừa nhận rộng rãi, vào cuối kỷ Băng hà, tức 13 nghìn năm trước, những người Âu-Ấ (Euro-Asian) dã đến định cư tại lục địa Mỹ. Vào thời kỳ này tại vị trí của eo biển Bering ngày nay có một con đường bộ chạy ngang qua và những người Đông bắc Á đã có một cuộc di cư lớn tới lãnh thổ Alaska.
+
+
+Sau đó họ chuyển dần xuống phía nam, con cháu của những người di cư đầu tiên sống rải rác tại Bắc và Nam Mỹ. Những thổ dân da đỏ hiện nay vẫn giữ nét mongoloid của tổ tiên mình và là họ hàng xa với người Inuit và Tchukhotca ở vùng Viễn đông.
+
+Song vào năm ngoái, người ta đã tìm thấy hoá thạch của người hang động trên lãnh thổ của bang Oregon, và việc xác định niên đại chứng minh rằng những di tích này còn lâu đời hơn vài nghìn năm so với di vật tìm được.
+
+Theo quan điểm khảo cổ, chênh lệch vài nghìn năm không phải là lớn, thế nhưng lại gây ra những ấn tượng rất mạnh vì theo lịch sử ngành địa chất vào thời kỳ này chưa xuất hiện con đường bộ giữa lục địa Âu-Á và châu Mỹ.  
+
+Những hài cốt mới tìm thêm được tại bán đảo Yukatan ở Mehico là dẫn chứng bổ sung thứ hai để thuyết phục những người còn hoài nghi. Các nhà khoa học tại Viện nhân chùng học quốc gia Mehico đã từ xương mặt, phục hiện lại chân dung cụ thể thì thấy đó là diện mạo của một phụ nữ, sống tại đây 10 nghìn năm về trước. Người phụ nữ này không giống những người Bắc Á mà phân tích về mặt nhân chủng học lại hoàn toàn giống với người Đông Nam Á, nhưng người ở phía Nam Trung Quốc và người Việt Nam.
+
+Để giải thích sự có mặt của tổ tiên những người da đỏ ở bang Oregon, người ta buộc phải thừa nhận họ đã đến đây bằng đường biển. Từ Tchukotka đến Alasca đi bằng thuyền chẳng mất bao nhiêu thời gian vì chính những người Tchukotka ngày nay vẫn thường làm điều này trên những con thuyền gỗ, chèo tay, thậm chí dưới thời xô viết người dân vẫn vượt biên như vậy để tránh các đồn biên phòng.
+
+Câu hỏi khó trả lời hơn là, vì lý do gì và bằng cách nào, những người Trung Quốc từ vùng Hồng kông ngày nay lại đến Tchukotka, để trở thành những người di dân đầu tiên. Các nhà khảo cổ phải tìm thêm chứng cớ mới lý giải được những điều này một cách thuyết phục.
+Rất nhiều năm sau cái chết của vị lãnh tụ vĩ đại của cuộc Cách mạng tháng 10 Nga, các nhà khoa học đã xác định được nguyên nhân chính xác về cái chết của Người.
+
+Vladimir Ilyich Lenin, xuất thân từ một gia đình trí thức. Ngay từ thuở nhỏ Lenin đã tuân thủ nghiêm ngặt thời gian biểu hàng ngày, kể cả việc ăn mặc… Thời bấy giờ môi trường trí thức, ăn uống khác biệt với các tầng lớp khác. Chủ yếu là món súp sữa,  thỉnh thoảng là món súp bắp cải chua.
+
+Về mùa hè đôi khi ăn súp cá. Bánh mì đen chỉ được ăn vào bữa trưa hàng ngày, bữa tối ăn bánh mì trắng với nước chè. Ngày lễ và chủ nhật ăn bánh tinh bột. Bánh tinh bột và bánh mì đen chứa các vầymin B1, B2, B6, B12,…Cơ thể Lenin rất thiếu các loại vitamin cần thiết ấy.
+
+Trong bữa ăn gia đình hàng ngày chủ yếu là trứng tráng và chút thịt bò hầm. Những ngày chủ nhật bữa sáng và tối ăn trứng luộc. Món ăn thường trực là bánh mì phết bơ hoặc kẹp cá hun khói. Cá hun khói chứa nhiều photpho. Năm 1887, khi là sinh viên trường đại học Kazan, Người đã bị đau dạ dày, phải chữa bằng nước khoáng.
+
+Những năm 1893 – 1895 là thời gian Lenin sống hết sức căng thẳng ở Pêtecbua để tổ chức “Liên minh đấu tranh cho sự nghiệp giải phóng giai cấp công nhân”, Người không chút để tâm đến chế độ ăn uống. Thường là ăn qua quít cho xong. Sau mấy năm sống độc thân ấy, từ một chàng thanh niên khoẻ mạnh Người trở thành một trí thức gầy còm, yếu đau, đầu hói và viêm dạ dày nặng.
+
+Cuối năm 1895 Lenin bị bắt. Lạ thay, trong những năm tháng lưu đày, bệnh dạ dày lại không hoành hành nữa. Suốt thời gian đó nhà tù chỉ cho ăn súp bắp cải và cháo hạt mì. Người được củng cố sức khoẻ bằng những món ăn Siberia như súp nấm, thịt bê. Sống dân dã Người thấy khoẻ mạnh dễ chịu.
+
+Thuở nhỏ Lenin bị hạn chế tối đa ăn của ngọt. Như vậy là Người đã bị tiêu hao nhiều khoản dự trữ của tế bào não, khiến nó hao mòn dần dần. Khi sống cùng Krupxcaia Người mới được người bạn đời làm cho món ăn ngọt mà Người ưa. Theo các nhà khoa học, khi ăn ngọt, người ta cảm thấy thư giãn nhẹ nhàng hơn và phần nào giảm bớt căng thẳng.
+
+Cuộc chiến tranh thế giới lần thứ nhất (1914-1918), Lenin phải chuyển sang dùng các đồ ăn của nông dân là sữa chua đặc với khoai tây luộc. Khi bị tù thì Người thường được những người nông dân Ba Lan tiếp tế nhwxng món ăn mỡ lợn muối, bánh mì đen …. Tháng 8 năm 1914, khi được tha Người cùng vợ sang sống ở Thuỵ Sĩ. Và tại đây ăn uống như sinh viên. Người thwờng đến chân núi Alpes hái nấm về ăn.
+
+Từ tháng 4-1917 đến tháng 1-1924 bà từ tháng 5 đến tháng 10, năm 1917, người sống trong bí mật, thức ăn may lắm mới có sữa tươi và trứng gà. Từ tháng 7, năm 1917 Người thấy rất thèm nước trà đặc, nhất là thời kỳ làm việc căng thẳng liên tục, vào ban đêm, để chuẩn bị cho cuộc cách mạng tháng Mười.
+
+Ăn trong thời nội chiến 1918- 1921, rất đạm bạc. Món trứng trong khẩu phần ăn bị cắt giảm nhiều. Tuy vậy lại giúp quá trình xơ cứng động mạch ở Người làm chậm lại, nhưng tăng thêm khả năng làm việc suốt bốn năm năm đó.
+
+Lenin có dấu hiệu bệnh thần kinh từ năm 1921, nhưng không có biện pháp nào, kể cả việc định ra một chế độ ăn uống bình thường ở Gorki vào mấy năm 1921- 1923 có thể làm kìm hãm sự phát triển chứng tổn thương  các mạch máu não do bệnh xơ cứng gây ra.
+
+Khả năng làm việc bằng trí tuệ rất cao của Lenin khiến các bác sĩ chăm sóc sức khoẻ của Người lo ngại. Bởi vậy đã xảy ra một sai lầm là họ để Người thường xuyên ăn sữa, trứng gà mà không hay rằng, sự kết hợp của sữa với trứng phải tuỳ vào lứa tuổi. Sữa tươi chưa loaị bơ còn nguyên axit béo no, đẩy nhanh sự phát triển cholesterol có hại. Tăng cholesterol từ trứng gà cũng là tăng lipoprotein (LDL). Mỗi quả trứng gà cho 180mg cholesterol, và hàng ngày gan sản xuất ra từ 1-3g cholesterol. Đã thừa LDL, mà vẫn liên tục ăn tới 200mg cholesterol mỗi ngày, sẽ thúc đẩy nhanh quá trình xơ vữa động mạch.
+
+Trứng chứa nhiều vitamin A,D,K, là những vitamin vốn rất lợi cho trẻ nhỏ và thanh thiếu niên, nhưng ở tuổi 40 trở lên có thể có hại. Nếu sự phát triển được kích lên thì những “vật liệu xây dựng” hoặc biến thành mỡ, hoặc sẽ diễn ra quá trình đẩy nhanh cái chết của các tế bào cũ có xu thế nhường chỗ cho các tế bào mới. Việc bổ dưỡng trứng, sữa cho người ở tuổi không phát triển là tạo sự chết cho các tế bào, từ đó dần dần thành cội nguồn của nhiều chứng bệnh khác nhau.
+
+Sữa tươi, chưa lên men chỉ bổ ích cho trẻ em. Người lớn tuổi nên dùng sữa đã lên men như bơ, pho mát, váng sữa và không nên lạm dụng sữa chua (có thể tiêu huỷ các mô tế bào tuỵ).
+
+Lenin đã được chỉ định ăn trứng, sữa liên tục dài ngày và phải trả giá bằng sinh mạng của mình. Khi giải phẫu thi hài Lenin và nghiên cứu các tế bào của Người các bác sĩ kết luận: “Chết vì xơ cứng động mạch não”.
+
+Rõ ràng, về phương diện khoa học sức khỏe và dinh dưỡng, quả là rất bổ ích khi tìm hiểu sự thật về cái chết của Lenin và phân tích chế độ dinh dưỡng trong những khoảng đời khác nhau của nhà lãnh tụ Cách mạng Tháng Mười Nga.
+Ngày thứ hai, 6/12/2010 vừa qua, các nhà khoa học đã ngừng mọi thí nghiệm trên máy gia tốc hạt lớn nhất thế giới LHC. Trên trang mạng về LHC xuất hiện dòng chữ lớn “End of run 2010”. 
+
+Trong 2 tháng cỗ máy ngừng hoạt động, các nhà khoa học kiểm tra lại tình trạng của từng công đoạn, sửa chữa những gì cần sửa và hiện đại hoámột số bộ phận.
+
+Theo kế hoạch, cuối tháng 2, đầu tháng 3 năm sau máy sẽ hoạt động trở lại và tiếp tục thí nghiệm với những proton. Cuối năm 2011 lại tiếp tục việc bắn phá những ion chì. Vừa qua, sau một đợt thí nghiệm tập trung, các nhà vật lý đã nghiên cứu trạng thái của vật chất tồn tại ở khoảnh khắc đầu tiên sau vụ nổ Big Bang.
+
+Sau khi va chạm của các ion chì, một chùm các hạt bền bắt đấu chuyển động tròn trong máy, các nhà vật lý đã xác định được sự kết hợp quark và gluon tách ra từ các proton và nơtron sau vu Big Bang. Họ cho rằng trong những giây đầu tiên của “cuộc đời” vũ trụ là một “bát súp những hạt quark” rất nóng và siêu đặc, trong đó các hạt quark bắt đầu kết hợp với nhau thành một tập hợp khổng lồ.
+
+LHC là một máy gia tốc hạt dùng để phát ra những hạt cơ bản. Trong đường hầm hình tròn có chiều dài 27km các chùm proton được phóng ra với tốc độ gàn bằng tốc đố ánh sáng sẽ va chạm với nhau.  Nghien cứu kết quả của những sự va chạm này, các nhà khoa học hy vọng sẽ thu được nhiều dữ liệu mới về cấu tạo của vật chất.
+
+LHC được xây dựng trên lãnh thổ Pháp và Thuỵ Sĩ, thuộc sự quản lý của Hội đồng châu Âu về nghiên cứu hạt nhân (CERN), một Tổ chức hiện bao gồm 20 quốc gia.
+Trữ lượng dầu mỏ và kim loại trên Trái đất đến một lúc nào đó sẽ cạn kiệt. Các sinh vật thì khác hẳn. Chúng có khả năng tái tạo – có nghĩa là thực tế chúng "bất tử". Có rất nhiều dự án nghiên cứu nguồn năng lượng thay thế trên cơ sở công nghệ sinh học. Nguồn năng lượng này có thể thu được từ thực vật, từ rác và từ… chính sinh vật.
+
+Các chuyên gia từ Tổ chức nghiên cứu nông nghiệp Mỹ, do TS Charles Lee đứng đầu đã nghĩ ra cách sử dụng nấm làm nhiên liệu sinh học. Chính xác hơn là loại mộc nhĩ (nấm tai mèo) rất đễ trồng ở vùng Đông nam Á. Mộc nhĩ thường được dùng làm thực phẩm. Nó có khả năng tách ra một loại men làm gỗ bị phân huỷ để hút lấy chất dinh dưỡng. Các nhà khoa học quyết định biến đổi gen, chịu trách nhiệm sản xuất ra loại men này. Nếu như nó chẳng những phân huỷ được gỗ mà còn phân huỷ được những phế liệu khác thì dựa vào nó có thể thu dược cả etanol dùng làm nhiên liệu.  
+
+Các nhà nghiên cứu Đại học Ohio đã tìm ra cách tận dụng vỏ trứng làm nhiên liệu vì thành phần chính của nó là canxi cacbonat. Khi nung nóng, nó biến thành canxi oxit, có thể hấp thụ khí cacbonic. 
+
+Một ông chủ trại người Đức là Christian Koch đã phát minh ra một dụng cụ để  xử lý bất cứ một loại phế liệu sinh học nào kể cả cỏ dại trong vườn. Các “nguyên liệu” trong nồi được đun nóng hỗn hợp đến 300 độ C làm hydrocacbon tách ra. Người Đức sáng tạo ấy đã dùng xúc tác chuyển hoá chúng thành dầu Diesel và sử dụng để chạy chiếc ô tô của chính mình.
+
+Người ta cũng thí nghiệm biến các phế liệu sinh hoạt hàng ngày thành nhiên liệu từ việc cải tiến công nghệ xử lý rác thải sinh hoạt. Sau khi phân loại, các chất thải có nguồn gốc hữu cơ được đưa vào một thiết bị đặc biệt để ủ, làm thành phân trộn, bón cho rau và cây cảnh trông trong vườn. Còn các chất vô cơ cho vào lò thiêu đốt bằng phương pháp nhiệt phân.
+
+Ý tưởng đốt rác trong lò không phải là mới. Từ năm 1874 người dân ở Nottingham (Anh) đã xây dựng những lò đốt rác đầu tiên. Theo gương họ, các thành phố lớn ở Mỹ như Boston, New York, Philadelphia cũng làm như vậy. Nhưng ngay sau đó, chính quyền địa phương thấy rằng cách xử lý rác như vậy ảnh hường đến môi trường sống, nhất là từ khi đồ dùng bằng chất dẻo trở nên phổ biến thì việc đốt rác tạo ra những chất khi rất có hại cho sức khoẻ. 
+
+Khi nhiệt phân các chất rắn, người ta đốt nó trong môi trường không có ôxi ở nhiệt độ từ 400 đến 700 độ C. Trong giai đoạn đầu của quá trình nhiệt phân người ta thu được mồ hóng (muội than) dùng trong công nghiệp cao su, và khi hầu hết cacbon bị cháy sẽ tạo ra chất khí có thành phần gần giống như khí thiên nhiên, có thể dùng làm nhiên liệu. Rất có thể trong một tương lai gần, sẽ có máy phát điện kết hợp với các lò đốt rác thu hồi khí để dùng trong sinh hoạt còn xỉ sau khi đốt sẽ được chôn trong các bãi thải phù hợp với tiêu chẩn sinh thái.
+
+Gần đây, công ty MagCap Engineering tại Massachusetts hợp tác với nhà phát minh Gordon Wald từ ĐH Illinois (Hoa Kỳ) thử nghiệm một thiết bị sản xuất điện từ bất kỳ một cây đang sống nào. Wald đã chế tạo ra một thiết bị gồm một chiếc kim bằng kim loại cắm vào cây và một sơ đồ điện để lọc dòng điện và điều chỉnh điện áp. Dòng điện sinh ra đủ để nạp cho pin của chiếc điện thoại di động. Nếu cái cây dùng làm nguồn điện trực tiếp đó càng ít lá thì điện áp thu được càng cao. 
+
+Các nhà khoa học Nhật còn đi xa hơn nữa. Họ đã chế tạo các thiết bị có thể sản xuất điện từ… máu người. Thực phẩm ăn vào chính là nguồn cung cấp năng lượng. Thực ra, công suất của chiếc “pin-người” không vượt quá được 100 watt. Về mặt lý thuyết nhờ phát minh này có thể cắm một bóng đèn vào cơ thể để soi đường trong những chỗ tối hoặc dùng cho các thiết bị điện khi chằng còn cách nào khác.
+Thuốc chống AIDS làm giảm nguy cơ lây nhiễm HIV, hô hấp nhân tạo theo kiểu mới không cần thổi ngạt, tạo thành công buồng trứng nhân tạo, ... nằm trong số những đột phá y học ấn tượng nhất năm 2010 theo bình chọn của tạp chí Time.
+
+1. Thuốc chống AIDS làm giảm nguy cơ lây nhiễm HIV
+
+Các loại thuốc kháng virus ARV (antiretroviral) đã cản đường tiến của đại dịch AIDS bằng cách cản trở sự phát triển của virus ở những bệnh nhân dương tính với HIV. 
+Tuy nhiên, một nghiên cứu mới cho thấy rằng, phương pháp điều trị mạnh mẽ này có thể mang tới thêm một lợi ích khác: một vũ khí chống lây nhiễm căn bệnh thế kỷ ở những người khỏe mạnh.
+
+Trong một thử nghiệm quy tụ gần 2.500 người tình nguyện âm tính với HIV nhưng có nguy cơ cao, dân đồng tính nam ở 6 nước trên thế giới, các nhà nghiên phát hiện, một viên thuốc kháng virus kết hợp có tên gọi Truvada đã làm giảm nguy cơ nhiễm HIV tới 44% so với giả dược. 
+Khi các nhà khoa học xem xét kỹ lưỡng hơn những người tình nguyện đã dùng loại thuốc này một cách nghiêm túc nhất hàng ngày, họ nhận thấy nguy cơ nhiễm HIV thậm chí còn thấp hơn 73% so với nhóm dùng giả dược.
+
+Giới chuyên môn đánh giá, cần phải có thêm nhiều cuộc nghiên cứu nữa để xác nhận tác dụng của các loại thuốc ARV. 
+Ngoài ra, các chuyên gia y tế cộng đồng cảnh báo rằng, ngay cả khi thu được các kết quả tốt hơn thì thuốc ARV cũng sẽ không thay thế phương pháp dự phòng tốt nhất: tình dục an toàn và sử dụng hợp lý bao cao su. 
+Đó là bởi vì, cách thức hoạt động của phương pháp tiền điều trị dự phòng phơi nhiễm là cho những người có nguy cơ cao nạp đủ lượng thuốc ARV vô hiệu hóa HIV trước khi tiếp xúc với virus, cho phép loại thuốc này tấn công HIV càng sớm càng tốt. 
+Tuy nhiên, thuốc không có tác dụng chuẩn bị cho hệ miễn dịch thực sự ngăn ngừa việc lây nhiễm như vắc-xin.
+
+2. Tế bào nhân tạo
+
+Tiến sĩ J. Craig Venter, nhà khoa học đồng vẽ nên sơ đồ bộ gen người, năm nay đã đạt được bước tiến mới trong việc tạo ra sự sống trong phòng thí nghiệm. 
+Xuất phát từ một quá trình kỳ công nhằm kết đính các chất hóa học cấu thành ADN, ông Venter đã tổng hợp toàn bộ bộ gen của một loại vi khuẩn, vốn được cấy vào tế bào và có khả năng nhân rộng. 
+Cứ cho là "tế bào nhân tạo" của ông Venter khó mà sở hữu những đặc điểm của con quái vật gây kinh hoàng thế giới như trong truyện của nữ nhà văn Anh Mary Shelley, nhưng nó vẫn là sự sống nhân tạo. 
+Ông Venter hy vọng khám phá của mình là đầu tiên trong hàng loạt các sinh vật được tạo ra trong phòng thí nghiệm bằng phương pháp sinh vật học tổng hợp. 
+Bằng cách pha trộn và kết hợp vật liệu di truyền vào các tổ hợp khả thi, ông Venter đã và đang tạo ra các sinh vật có thể đóng vai trò như những loại nhiên liệu sinh học mới, hoặc thậm chí tăng tốc độ sản xuất vắc-xin ngừa cúm khi cho phép các nhà nghiên cứu lưu trữ các mẫu của những chủng virus cúm khác nhau trong phòng thí nghiệm.
+
+3. Xét nghiệm máu chẩn đoán sớm bệnh Alzheimer
+
+Bất chấp những biện pháp ngày càng tinh vi dùng để chẩn đoán bệnh, các bác sĩ vẫn không thể phát hiện sớm bệnh Alzheimer thông qua những cuộc kiểm tra hình ảnh và phân tử tiên tiến nhất. 
+Căn bệnh thoái hóa này chỉ có thể được chẩn đoán chính xác bằng mổ xẻ, khi các chuyên gia nghiên cứu bệnh học có thể xác nhận sự hiện diện của những mảng và đám rối đặc trưng trong não. 
+Tuy nhiên, một phương pháp xét nghiệm máu mới, đầy hứa hẹn có thể giúp chẩn đoán sớm bệnh đang tiến triển. Điều này đang mở ra khả năng phòng ngừa chứng mất trí và suy giảm tâm thần ngay cả trước khi khởi phát các triệu chứng sớm nhất. 
+Phương pháp xét nghiệm mới phân tích hơn 20 protein trong máu và đạt độ chính xác 80% trong việc xác định bệnh nhân mắc Alzheimer. 
+Đây là thủ thuật mới nhất trong hàng loạt phương pháp mới, bao gồm cả xét nghiệm chất dịch cột sống, nhằm phát hiện và xác định bệnh Alzheimer sớm hơn cho bệnh nhân. 
+Việc chẩn đoán nhanh chóng hơn có thể giúp các bệnh nhân tận dụng lợi thế của những can thiệp mang tính hành vi, chẳng hạn như giữ cho trí não hoạt động tích cực bằng cách duy trì quan hệ xã hội và học hỏi những điều mới, nhằm giúp làm chậm lại quá trình suy giảm tâm thần của bệnh nhân Alzheimer.
+
+4. Mỹ phê chuẩn dùng Botox chữa đau nửa đầu
+
+Sau khi một số bệnh nhân từng được tiêm thuốc Botox để ngăn ngừa nếp nhăn trên trán, thông báo rằng chứng đau nửa đầu của họ dường như cũng làm giảm bớt, các nhà khoa học, đặc biệt là những chuyên gia làm việc cho hãng sản xuất Botox có tên gọi Allergan, đã quyết định tìm hiểu sự việc. 
+Dựa trên các dữ liệu thu được từ hai cuộc thử nghiệm lớn liên quan đến hơn 1.000 bệnh nhân, công ty Allergan đã thuyết phục thành công Cơ quan quản lý Thực phẩm và Dược Phẩm Mỹ (FDA) rằng, các bệnh nhân được bơm Botox ở khu vực mặt trải qua số ngày bị đau nửa đầu mỗi tháng ít hơn hơn so với những người không được trị liệu như vậy. Sự phê chuẩn của FDA đồng nghĩa với việc các doanh nghiệp bảo hiểm có thể bắt đầu chi trả những chi phí liên quan đến Botox, vốn có thể lên tới hàng ngàn USD trong nhiều tháng, để điều trị chứng đau nửa đầu. Tuy nhiên, các chuyên gia nhận định, hiện vẫn khó để dự đoán kiểu bệnh nhân đau đầu nào sẽ được hưởng lợi nhiều nhất, nhưng chí ít những người bị đau nửa đầu sẽ không phải viếng thăm bác sĩ phẫu thuật thẩm mỹ để giảm đau hoặc móc hầu bao tự trả tiền cho việc điều trị.
+
+5. Hô hấp nhân tạo kiểu mới không cần thổi ngạt
+
+Suốt 50 năm, kể từ khi phương pháp hồi sức tim phổi (CPR) được mô tả lần đầu tiên năm 1960, các đội cứu hộ đã được cứu sống được vô số mạng người khi kết hợp hô hấp nhân tạo bằng thổi ngạt với ép tim ngoài lồng ngực những nạn nhân bất tỉnh nhân sự. 
+Tuy nhiên, sau khi các dữ liệu mới cho thấy, mình ép tim ngoài lồng ngực cũng đem lại hiệu quả tương đương phương pháp CPR truyền thống trong việc cứu sống các nạn nhân bị tim ngừng đập, Hiệp hội Tim mạch Mỹ (AHA) đã quyết định cập nhật phương pháp hô hấp nhân tạo hiện có. 
+Các quy định mới về CPR chú trọng nhiều hơn vào việc tim ngoài lồng ngực, và trong một số trường hợp không cần kèm thổi ngạt.
+
+Trong những năm gần đây, nhiều nghiên cứu phát hiện, những người ngoài cuộc, không qua đào tạo cảm thấy thoải mái hơn khi tiến hành ép tim ngoài lồng ngực mà không cần hà hơi thổi ngạt và cơ hội sống sót của những nạn nhân chỉ nhận thủ thuật hô hấp nhân tạo này tương đương với những nạn nhân được hô hấp nhân tạo đầy đủ kiểu truyền thống.  
+Các kết quả này, cùng với thực tế là chỉ có 30% số người cần hô hấp nhân tạo thực sự được nhận nó (chỉ yếu là vì những người ngoài cuộc, không qua đào tạo không sẵn lòng thực hiện phương pháp CPR truyền thống mà họ cho là phức tạp), đã buộc AHA phải sửa đổi các hướng dẫn hô hấp nhân tạo. 
+AHA khuyến cáo tất cả những người cứu hộ, kể cả nhân viên cấp cứu được đào tạo bài bản, nên đảo ngược cách thức tiến hành hô hấp nhân tạo hiện có, bắt đầu với 30 lần ép tim ngoài lồng ngực, sau đó tới hà hơi thổi ngạt để giảm thiểu thương tổn tới người bị tim ngừng đập.
+
+6. FDA hạn chế thuốc chữa tiểu đường Avandia
+
+Mười một năm sau khi được tung ra thị trường và trở thành dược phẩm bán chạy trên toàn thế giới, thuốc điều trị tiểu đường Avandia (rosiglitazone) đã bị FDA áp đặt các quy định hạn chế nghiêm ngặt nhất. 
+Hiện tại, chỉ các các bác sĩ đã được chứng nhận hiểu rõ việc tăng nguy cơ đau tim liên quan đến Avandia mới có thể kê loại thuốc giúp kiểm soát đường huyết ở bệnh nhân tiểu đường tuýp 2 này. 
+Những bác sĩ này có thể cấp phát thuốc Avandia chỉ khi các bệnh nhân của họ đã vô vọng với mọi lựa chọn điều trị khác và chấp nhận những rủi ro kèm theo.
+
+Theo một số chuyên gia, quyết định của FDA đáng lẽ phải được đưa ra từ lâu, do các nhà nghiên cứu lần đầu tiên thông báo về việc tăng nguy cơ đau tim ở những người dùng Avandia từ năm 2007. 
+Vào thời điểm đó, FDA đưa ra cảnh báo đầu tiên của họ trên nhãn thuốc. Một cuộc tái kiểm tra độ an toàn của chính phủ Mỹ hé lộ rằng, GlaxoSmithKline - hãng sản xuất Avandia đã biết về các nguy cơ tăng cao liên quan đến sản phẩm của họ sau khi nó được tung ra thị trường vào năm 1999.
+
+Tin tốt cho những bệnh nhân phản ứng tốt với Avandia nhưng sợ rủi ro là, hiện đã có một loại thuốc với tính năng tương tự nhưng không gây nhiều nguy cơ đau tim bằng có tên Actos (pioglitazone).
+
+7. Xét nghiệm máu phát hiện sớm cơn đau tim
+
+Một cơn đau tim bắt đầu với hàng loạt tắc nghẽn trong các mạch máu, do đó còn nơi nào tốt hơn để tìm kiếm chẩn đoán về các vấn đề về tim mạch tốt hơn trong máu? Hiện tại, cách đáng tin cậy nhất để kiểm tra tình trạng các mạch của tim là dùng phương pháp chụp động mạch, một thủ thuật can thiệp bao gồm việc lượn một ống nhỏ vào các mạch máu từ một động mạch ở chân. 
+Tuy nhiên, các nhà nghiên cứu hiện đã xác định được một bảng sơ bộ gồm 23 gen mã hóa các protein trong máu, đạt 83% độ chính xác trong việc phát hiện những tắc nghẽn mạch máu điển hình của bệnh tim. 
+Khi các bác sĩ thêm xét nghiệm máu này vào những biện pháp đo lường nguy cơ đau tim hiện có, kể cả các triệu chứng đau ngực và tiền sử vấn đề sức khỏe của gia đình, nó đã nâng khả năng phân loại bệnh nhân có nguy cơ cao hay thấp của họ thêm 16% so với việc chỉ sử dụng những phương pháp truyền thống. 
+Quá nhiều khi hy vọng rằng, mình các xét nghiệm máu có thể dự đoán cơn đau tim, ít nhất là trong hiện tại, nhưng biện pháp này có thể đóng vai trò như một kêu gọi cảnh báo sớm cho những bệnh nhân có nguy cơ cao. Việc thúc đẩy các thay đổi trong thói quen ăn uống và lối sống ở những bệnh nhân này có thể giúp họ ngăn chặn nguy cơ bị đau tim.
+
+8. Dự đoán thành công việc thụ tinh trong ống nghiệm
+
+Đối với các cặp vợ chồng lựa chọn việc thụ tinh trong ống nghiệm (IVF), các tỷ lệ không phải luôn luôn ủng hộ họ. 
+Quá trình này, ngay cả trong các điều kiện tốt nhất, trung bình cũng chỉ có 30% cơ hội mang tới sự ra đời của một đứa trẻ. 
+Vì vậy, khi các nhà nghiên cứu thuộc Đại học Stanford công bố một phương pháp mới nhằm lựa chọn những phôi thai mạnh nhất, mang tới nhiều khả năng nhất trong việc mang thai và đẻ con thành công, dư luận đã vô cùng hoan nghênh.
+
+Bằng cách quay phim vài giờ hoạt động đầu tiên của phôi sau khi thụ tinh, các nhà khoa học đã có thể đưa ra thông tin về các đặc điểm của những phôi thai có nhiều khả năng nhất để tiếp tục phát triển và sống sót trong vài ngày, thay vì chết đi. Các tiêu chí đánh giá bao gồm cả khoảng thời gian để các phôi tiến hành phân chia lần đầu tiên từ một tế bào thành hai, cũng như thời gian để chính kết quả lần phân chia này tiếp tục nảy nở. Bước tiếp theo sẽ là đưa đánh giá dựa trên video này vào thí nghiệm ở một trung tâm thụ tinh ống nghiệm và xác định xem liệu các phân tích thực sự có thể cải thiện tỷ lệ mang thai và sống sót của bào thai hay không.
+
+9. Buồng trứng nhân tạo
+
+Thêm tin tức tốt lành cho những người đấu tranh với vô sinh: các nhà khoa học tuyên bố đã thành công trong việc tạo ra một buồng trứng nhân tạo vốn một ngày nào đó có thể nuôi dưỡng trứng chưa trưởng thành của con người bên ngoài cơ thể. 
+Các nhà nghiên cứu do một nhóm tại Đại học Brown dẫn đầu đã tìm được cách dụ ba tế bào trứng chính của bệnh nhân vào một cấu trúc 3-D tương tự như một buồng trứng. 
+Trong phòng thí nghiệm, các loại tế bào này tương tác với nhau và thực hiện mọi chức năng như một buồng thực sự, thậm chí thành công trong việc nuôi dưỡng một trứng của con người trưởng thành từ giai đoạn sớm nhất trong nang tới một dạng phát triển đầy đủ.
+
+Ngay lập tức, cấu trúc này đã có thể giúp các kỹ thuật viên thụ tinh ống nghiệm cải thiện tỷ lệ thành công. 
+Hiện nay, khi phụ nữ hiến tặng trứng cho một chu kỳ thụ tinh ống nghiệm, họ cung cấp một loạt trứng cả trưởng thành và chưa trưởng thành. 
+Những trứng kém phát triển hơn ít có khả năng được thụ tinh để trở thành phôi thai. 
+Tuy nhiên, bằng cách cho phép các kỹ thuật viên nuôi dưỡng những trứng này trưởng thành trong phòng thí nghiệm, các nhà nghiên cứu có thể giúp mỗi chu kỳ thụ tinh ống nghiệm trở nên hiệu quả hơn. 
+Ngoài ra, các buồng trứng nhân tạo có thể giúp phụ nữ có bệnh buồng trứng, những người không thể sản sinh trứng trưởng thành, tận dụng lợi thế của thụ tinh ống nghiệm để sinh con của riêng mình.
+
+10. Tạo tế bào iPS an toàn hơn và nhanh hơn
+
+Trong khi triển vọng về phương pháp điều trị bằng tế bào gốc để chữa được bệnh vẫn còn xa vời, các nhà khoa học tiếp tục đạt những bước tiến lớn trong việc đưa tiềm năng đó từ phòng thí nghiệm tới bệnh xá. 
+Làm việc với loại tế bào gốc mang tính đột phá, có tên gọi là tế bào gốc đa năng cảm ứng (iPS) và có thể được tạo ra từ một tế bào da, hoàn toàn bỏ qua sự hiện diện của các phôi), các nhà nghiên cứu tại Bệnh viện Nhi Boston đã vượt qua một rào cản quan trọng trong việc tạo công nghệ an toàn cho người bệnh.
+
+Cho đến nay, để tạo ra các tế bào iPS từ những tế bào da, nhóm nghiên cứu cần phải phơi nhiễm các tế bào da với cả virus và những gen gây bệnh ung thư để tái lập trình chúng vào một trạng thái giống như phôi. 
+Hiện các nhà khoa học của Viện nhi Boston thông báo thành công trong việc sử dụng một dạng khác của các gen được thêm vào (RNA), giúp loại bỏ các nguy hiểm gây ra bởi việc chèn vào các vi rút và gen thúc đẩy ung thư. 
+Và như một phần thưởng đột xuất, kỹ thuật này hiệu quả hơn hơn phương pháp cũ khoảng 100 lần trong việc sản sinh các tế bào iPS. 
+Khám phá mới đánh dấu một bước tiến quan trọng, mở ra triển vọng sử dụng tế bào gốc như là một nguồn cung cấp tế bào mới và khỏe mạnh để thay thế những tế bào bị bệnh tật phá huỷ trong tương lai.
+Thế giới vừa được chứng kiến một đột phá y học ấn tượng khi các bác sĩ tin rằng, một người đàn ông dương tính với HIV đã được chữa khỏi căn bệnh thế kỷ nhờ quá trình điều trị bằng phương pháp cấy ghép tế bào gốc.
+
+Theo báo Huffington Post, Timothy Ray Brown, người Mỹ gốc Đức, hay còn được biết đến với biệt danh "Bệnh nhân Berlin", đã được cấy ghép tế bào gốc từ năm 2007 theo một chương trình điều trị bệnh bạch cầu kéo dài.
+
+Các bác sĩ điều trị cho Brown mới đây đã công bố một báo cáo trên tạp chí Blood khẳng định, kết quả của cuộc thử nghiệm tốn kém nhiều thời gian trên "minh chứng mạnh mẽ cho việc đã chữa trị được bệnh nhân nhiễm HIV". Báo cáo nhấn mạnh, chính phương pháp cấy ghép tế bào gốc đã giúp chữa khỏi cả bệnh bạch cầu và AIDS ở bệnh nhân Brown.
+
+Tuy nhiên, công bố này đã gây ra một cuộc tranh cãi nảy lửa. Hãng thông tấn Fox dẫn lời một số chuyên gia nhận định, kết quả có được không chỉ nhờ phương pháp cấy ghép tế bào gốc. Theo họ, đúng hơn là, Brown "đã được cấy ghép các tế bào gốc từ một người hiến tặng sở hữu một kiểu gen đột biến hiếm, dường như khiến những người mang nó gần như miễn nhiễm với HIV".
+
+Quá trình điều trị như của anh Brown được mô tả là một "phương pháp gần chết", rất tốn kém và đòi hỏi người hiến tặng tế bào gốc đã miễn nhiễm với HIV. Hơn thế nữa, khả năng tìm được người hiến tặng tế bào đặc biệt như vậy rất mong manh.
+
+Giới chuyên môn đánh giá, trường hợp của anh Brown đang mở ra đường hướng mới cho việc phát triển một phương pháp chữa trị lâu dài cho sự lây nhiễm HIV thông qua công nghệ di truyền tế bào gốc. Nó rất hứa hẹn nhưng không phải là một giải pháp dễ dàng.
+
+Mới đây, tạp chí danh tiếng Time đã bình chọn một phát hiện khác liên quan đến căn bệnh thế kỷ AIDS vào danh sách các Top 10 đột phá y học năm 2010. Các nghiên cứu gần đây cho thấy, những người khỏe mạnh uống thuốc kháng virus - loại thuốc thường được chỉ định cho điều trị HIV, có thể giảm nguy cơ mắc căn bệnh thế kỷ tới 73%.
+
+Mặc dù những khám phá trên không đồng nghĩa với việc các nhà khoa học đã tìm ra cách chữa trị hữu hiệu người nhiễm virus HIV nhưng chúng chắc chắn có thể mang tới hy vọng cho hơn 33 triệu người đang sống chung với căn bệnh thế kỷ trên khắp thế giới. Bên cạnh các đột phá như vậy, những nỗ lực toàn cầu để phòng chống dịch bệnh đã được thúc đẩy với các sáng kiến mới ở Philippines và Nam Phi trong tuần này.
+Khi xướng danh Andrei Konstatinovitch Geim là người có vinh dự được trao giải Nobel, nhiều người Nga còn ngỡ ngàng vì họ chưa từng nghe đến cái tên lạ này. Người ta đã phải đặt câu hỏi, Andrei Geim, ông là ai?
+
+Andrei Konstaninovitch sinh năm 1958 tại Sochi trong một gia đình kỹ sư. Năm 1975 ông tốt nghiệp với huy chương vàng tại Trường Trung học số 3 tại Nakchika,thủ đô nước CH tự trị Kabardino-Balkaria. Trong một cuộc phỏng vấn, ông nói ông cảm thấy mình là người châu Âu nhưng trong dòng máu có 25% là người karbadino-balkaria.
+
+Sau khi tốt nghiệp phổ thông, ông thi vào Đại học Tài chính tại Matxcơva nhưng trượt vì lý lịch: ông thuộc người Đức thiểu số. Ông phải tìm một con đường khác để được vào đại học. Vì vậy, làm công nhân một năm ở nhà máy điện Nalchika rồi ghi tên học hàm thụ Đại học Vật lý kỹ thuật Matxcơva. Geim tốt nghiệp xuât sắc với toàn điểm 5 (trừ một điểm 4 về môn Kinh tế chính trị học xã hội chủ nghĩa) vào năm 1982.
+
+Ông xin làm nghiên cứu sinh và sau 5 năm bảo vệ luận án phó tiến sĩ tại Viện Vật lý chất rắn, thuộc VHLKH Liên Xô. Sau đó làm việc tại Viện những vấn đề vi điện tử và các vật liệu đặc biệt tinh khiết mới thành lập.  
+
+Năm 1990, Geim nhận được học bổng của Hội Hoàng gia Anh và đã làm việc tại các trường Đại học Anh, Đan Mạch, Hà Lan. Từ năm 2001, ông quay lại làm việc tại ĐH Manchester rồi được phong giáo sư danh dự tại ĐH công nghệ Delf, trường Cao đẳng kỹ thuật Zurich và Đại học Antwerpen.
+
+Năm 2008 ông được mời làm viện trưởng Viện Max Planck tại CHLB Đức, nhưng ông đã từ chối. Vợ ông, bà Irina Grogorieva làm việc cùng phòng thí nghiệm của ông.
+
+Trong số những thành tựu khoa học, ông đã chế ra được băng dính tắc kè (loài bò sát có thể bò trên trần mà không bị rơi vì bàn chân có kết cấu đặc biệt). Vào năm 2000, những thí nghiệm dùng nam châm để làm một con bài nhảy lên đã khiến ông được trao giải Ig Nobel, giải thưởng dành cho những phát minh ngớ ngẩn nhất. Nghĩa là con người thông minh này đã từng… rất đần độn và được những 2 giải Nobel đối nghịch nhau.
+Một bé gái 2 tuổi ở Mỹ vừa bị cắt bỏ nửa bộ não nhằm tránh cho em tiếp tục phải hứng chịu 50 cơn động kinh mỗi ngày.
+
+Theo tờ Daily Mail, bé gái Katie Verdecchia, 2 tuổi bị mắc hội chứng Aicardi - một bệnh rối loạn thần kinh hiếm gặp, có tính di truyền, khiến cấu trúc kết nối hai bên não bộ bị khuyết thiếu.
+
+Bố mẹ của Katie là Maryalicia và Brian, đến từ Portland, bang Oregon (Mỹ) lần đầu tiên nhận thấy sự bất bình thường khi con gái họ bắt đầu trải qua các cơn co giật ngắn vào tháng 4/2008, chỉ một tháng sau khi chào đời.
+
+Bác sĩ đã trấn an hai vợ chồng Brian không nên quá lo lắng. Tuy nhiên, họ đã quyết định đưa con gái tới bệnh viện sau khi những cơn động kinh "tấn công" bé Katie mạnh hơn và thường xuyên hơn. Các xét nghiệm sau đó hé lộ một sự thực đau lòng: Katie mang trong mình hội chứng Aicardi - một căn bệnh vô cùng hiếm gặp, được cho chỉ ảnh hưởng tới khoảng 500 người trên toàn thế giới.
+
+Hội chứng Aicardi gây ra các cơn động kinh hàng ngày và cản trở sự phát triển. Các bác sĩ cũng phát hiện những tổn thương ở mặt sau một trong các võng mạc của Katie.
+
+Katie đã được điều trị bằng nhiều loại thuốc nhằm giúp em giảm các cơn động kinh và cải thiện chức năng vận động. Dẫu vậy, không có loại biệt dược nào đem lại hiệu quả và cô bé liên tục phải ra, vào viện điều trị.
+
+Tuy nhiên, bố mẹ Katie đã được động viên phần nào trước sự tiến bộ của con gái mình khi em học cách đi bộ và giao tiếp thông qua các ký hiệu bằng tay. Hồi tháng 5 vừa qua, mẹ Katie chia sẻ trên blog: "Bất chấp các trở ngại với sức khỏe, Katie đã tiếp tục phát triển và học hỏi. Con bé hiện đã trải qua giai đoạn mà hầu hết mọi người gọi là khởi điểm của trẻ mới biết đi và hiện di chuyển rất nhanh. Tính cách của Katie tiếp tục phát triển và con bé cũng phản ứng tốt hơn rất nhiều trước đồ chơi và con người. Nhiều giao tiếp bằng mắt hơn, các nụ cười khúc khích và cười to thành tiếng".
+
+Nhưng đến cuối tháng 8, bố mẹ Katie lại nhận được tin buồn: cô con gái dũng cảm của họ đang đối mặt với những cơn động kinh dữ dội suốt 24 giờ và cái chết đang rình rập em. Đến tháng 9, chuyên gia thần kinh điều trị cho Katie tại Trung tâm y tế thuộc Đại học California đề nghị phẫu thuật cắt bỏ nửa não phải của cô bé nhằm mở ra tia hy vọng giúp em có thể sống một cuộc đời bình thường hơn và giảm nguy cơ đột tử không rõ nguyên nhân.
+
+Cuối cùng, Katie đã trải qua cuộc phẫu thuật kéo dài 8 giờ đồng hồ ngày 22/11 vừa qua. Nhóm bác sĩ do chuyên gia phẫu thần kinh Gary Mathern đứng đầu đã ngắt các kết nối giữa hai bên não bộ của Katie và loại bỏ trung khu nửa não bên phải của cô bé.
+
+Các bác sĩ phát hiện, thùy trán của Katie không bao giờ được hình thành hoàn chỉnh và điều đó lý giải tại sao em không thể di chuyển ở bên trái cơ thể. Nhóm điều trị hy vọng, cuộc phẫu thuật sẽ giúp cô bé học hỏi mọi thứ bằng cách sử dụng nửa trái của não bộ và do đó sẽ hồi phục nhanh chóng hơn.
+
+Katie không bị bất kỳ biến chứng nào từ ca phẫu thuật. Em đã được chuyển đến phòng điều trị bình thường sau một tuần đáng lo ngại. Các bác sĩ và gia đình hiện rất lạc quan về sự hồi phục của Katie và tràn đầy hy vọng em có thể trở về nhà vào dịp Giáng sinh sắp tới.
+Với các cuộc gặp gỡ và ký kết các văn bản hợp tác giữa các nhà lãnh đạo cao nhất của Chính phủ Việt Nam với Chính phủ Nga và Nhật Bản ở Hà Nội, sự nghiệp phát triển nền công nghiệp điện hạt nhân của Việt Nam đã bước vào một giai đoạn mới mang tính quyết định.
+
+Từ đề tài RD đến dự án NMĐHN
+
+Ý tưởng đưa Điện hạt nhân (ĐHN) vào Việt Nam đã bắt đầu xuất hiện trong phạm vi nghiên cứu phát triển RD từ 20 năm trước, với đề tài KC 09.17 “Nghiên cứu khả năng đưa điện nguyên tử vào Việt Nam” thuộc Chương trình Khoa học Công nghệ cấp Nhà nước KC 09 về “Khoa học và Kỹ thuật hạt nhân” trong những năm 1991-1995. Tiếp theo là các đề tài và nhiệm vụ nghiên cứu phát triển RD các cấp khác nhau được triển khai.
+
+20 năm đã đi qua, những ý tưởng ban đầu từng bước, từng bước đi vào hiện thực. Các kết quả nghiên cứu, tính toán, các bộ số liệu phong phú thu thập từ thực tế trong các đề tài RD đã được khai thác sử dụng và phát triển để đưa vào dự án xây dựng NMĐHN.
+
+Trong đó, các hồ sơ số liệu dự báo về phát triển nền kinh tế xã hội, về đà tăng trưởng nhu cầu điện năng, về tiến độ đưa điện hạt nhân vào mạng lưới v.v… có giá trị to lớn trong việc định ra lộ trình 20 năm (2010-2030) phát triển Điện Hạt nhân (ĐHN).
+
+Các kết quả nghiên cứu khảo sát trong các đề tài và nhiệm vụ RD khác nhau cũng góp phần to lớn xác định các địa điểm khả thi cho các NMĐHN tương lai. Các địa điểm NMĐHN dự báo đó hầu như nằm ở vùng Trung bộ của nước ta, đặc biệt tập trung ở nam Trung bộ. Điều nay cũng dễ hiểu, nếu biết rằng ở vùng này hội tụ nhiều yếu tố ưu tiên trong tiêu chí lựa chọn địa điểm xây dựng nhà máy điện hạt nhân.
+
+Trước hết là yếu tố an toàn cho hoạt động của NMĐHN trước các mối đe dọa của tự nhiên. Số liệu khí tượng tích lũy hàng trăm năm qua và số liệu khảo sát cấu tạo địa chất …thu thập được đã chỉ rõ vùng này được xem là ít khả năng mưa bão, động đất, sóng thần. Ngoài ra, bờ biển miền Trung với biển cả vô tận là nguồn nước làm nguội lý tưởng cho lò phản ứng của NMĐHN. Ở đây, khảo sát cho thấy mật độ dân cư thưa thớt và xa các thành phố lớn rất thích hợp với địa điểm xây dựng nhà máy. Mặt khác, về mặt kinh tế, số liệu khảo sát cũng chứng tỏ vùng trung và nam Trung bộ đáp ứng các tiêu chí cần thiết như nhu cầu lớn về điện năng, gần các con đường giao thông trên bộ, bến cảng v.v….
+
+Rõ ràng, từ một chương trình, một đề tài nghiên cứu phát triển RD, giờ đây một dự án xây dựng nhà máy điện hạt nhân (NMĐHN) đã hình thành, đã được Quốc hội xem xét, được Chính phủ chuẩn y và một lộ trình 20 năm thực sự đã được khởi động. 
+
+Lộ trình 20 năm, 14 lò và 15.000 Mê-ga-oat
+
+Theo Quyết định số 906/QĐ-TTG của Chính phủ, định hướng quy hoạch phát triển ĐHN ở Việt Nam từ nay đến năm 2030 là: từng bước xây dựng và phát triển ngành công nghiệp điện hạt nhân, bảo đảm quản lý an toàn và khai thác hiệu quả các nhà máy điện hạt nhân, từng bước tăng dần tỷ lệ tham gia của các ngành công nghiệp trong nước vào việc thực hiện các dự án xây dựng nhà máy điện hạt nhân, tiến đến tự chủ về thiết kế, chế tạo, xây dựng, lắp đặt, vận hành và bảo dưỡng các nhà máy điện hạt nhân.
+Theo Quyết định số 906/QĐ-TTG, và cũng theo báo cáo mới nhất của đại diện Bộ Công Thương tại “Hội thảo Khoa học Vật lý hạt nhân, Năng lượng cao và Thiên văn (ở Hà Nội ngày 9/11/2010)”, lộ trình xây dựng NMĐHN trong 20 năm tới được trình bày trong bảng sau.
+
+Từ bảng trên có thể thấy, phù hợp với các kết quả khảo sát của các đề tài nghiên cứu RD, 8 địa điểm hay 8 nhà máy điện hạt nhân tương lai đã được định hướng xây dựng ở 5 tỉnh Trung bộ, trong đó tập trung chủ  yếu ở nam Trung bộ, đó là Ninh Thuận, Bình Định, Phú Yên, Hà Tĩnh, Quảng Ngãi.
+
+Các mốc thời gian quan trọng trong định hướng phát triển các NMĐHN đã được đặt ra khá cụ thể, đó là: 
+a/ đến năm 2020, tổ máy điện hạt nhân đầu tiên với công suất khoảng 1.000 MW sẽ đi vào vận hành,
+b/ đến năm 2025, tổng công suất các nhà máy điện hạt nhân khoảng 8.000 MW, và
+c/ tăng công suất lên khoảng 14.000 - 15.000 MW vào năm 2030, chiếm khoảng 10% tổng công suất nguồn điện toàn quốc.
+
+Rõ ràng, với 14 tổ máy (hay 14 lò phản ứng hạt nhân năng lượng) và tổng công suất điện hạt nhân khoảng 15.000 Mê-ga-oat, lộ trình 20 năm xây dựng nền công nghệ điện hạt nhân của Việt Nam thực sự đã bắt đầu.
+
+Với lộ trình đó, khi được kết thúc thành công, ngành điên hạt nhân sẽ bổ sung thêm 10% công suất vào lưới điện quốc gia, góp phần đáng kể vào sự nghiệp phát triển bền vững nền kinh tế xã hội của đất nước Việt Nam.
+Các nhà di truyền học đã tìm ra một phương pháp chính xác để xác định tuổi thọ của bất kỳ người nào.
+
+Các nhà khoa học đã có trong tay một phương pháp để xác định bằng trên di truyền học tuổi thọ của một người sống dưới 100 tuổi. Độ chính xác tỏ ra cao hơn nhiều so với những phương pháp hiện có. 
+
+Việc đoán trước triển vọng của một người, những danh hiệu mà một người có thể đạt được, các chuyên gia trường Đại học Boston khẳng định độ chính xác chỉ đạt 77%. Để làm được điều này, người ta phải tiến hành phân tích gien của người đó. Sự có hay không có các gen đặc hiệu nào đó cho phép phán đoán người đó có bị đe doạ về bệnh lý học để có thể bị chết sớm.
+
+Các nhà khoa học đã phân tích các vật liệu di truyền, lấy từ trên 1.000 người có may mắn kỷ niệm ngày sinh lần thứ 100 của mình. Và cả ở 1.000 người này, không một ai có các gien đặc thù gây bệnh nguy hiểm.
+
+Những tổng kết nghiên cứu ấy, công bố nửa năm trước đây đã gây sốc đối với người đọc và càng sốc hơn khi các nhà khoa học đã tự tin tuyên bố đã tìm ra phương pháp để dự đoán về “tiềm năng sống thọ” với độ chính xác 100%.
+
+Nhưng vừa đây các nhà di truyền học đã đính chính đôi chút. Họ nói những tuyên bố trước đây là “hơi quá”. Trong quá trình phân tích bộ gen với số lượng lớn hơn nhiều đã cho thấy độ chính xác của phương pháp thử không phải 100%, mà thấp hơn 1/4.
+
+Tuy nhiên con số 77% này cũng vẫn là một con số gây sốc.
+
+"Đương nhiên, phương pháp dự báo này còn xa mới gọi được là “lý tưởng”. Song mỗi người khi còn trẻ đều có quyền biết bộ gen của mình chỉ ra trong tương lai mình sẽ mắc những bệnh gì”. – giáo sư Paulo Sebastian cho biết – “Tôi cho rằng với độ chính xác 77%, bạn hoàn toàn có thể sống đến 100 tuổi, nếu bạn hết sức quan tâm đến sức khoẻ của mình và môi trường sinh thái”.
+Ngày 26/11, các chuyên gia Pháp đã giới thiệu một công nghệ để xử lý bụi thải của các lò sản xuất thép có tính khả thi cao, giải quyết được cả vấn đề môi trường và kinh tế.
+
+Trong quá trình phát triển của một nước, công nghiệp thép là thành phần không thể thiếu. Từ chỗ năm 1975, Việt Nam mới sản xuất được 152.000 tấn thép, đến năm 2009, tổng sản lượng thép của nước ta đã lên tới 9.600.000 tấn và theo dự kiến khi nước ta trở thành một nước công nghiệp hoá (2020), sản lượng thép tính theo đầu người phải vượt quá 200 kg.
+
+Trong số 9.600.000 tấn thép sản xuất năm vừa qua, khoảng 1/3 được sản xuất theo phương pháp hồ quang điện và công nghệ này không tránh khỏi tạo ra một lượng bụi thải rất lớn phải chôn lấp (thông thương chiếm 2% sản lượng thép thành phẩm). Ước tính, năm 2010, lượng bụi thải là 70.000 tấn và năm 2011 là 100.000 tấn.
+
+Trong bụi, chứa 40% sắt cùng với những nguyên tố khác, chủ yếu là kẽm và chì. Như vậy đã mất đi đến 24.000 tấn sắt không thu hồi (theo thời giá lên tới 15 tỷ đôla Mỹ). Lượng hao phí ngày càng lớn khi phát triển sản xuất. Song không chỉ gây thiệt hại về mặt kinh tế, mà bụi thải rất độc hại với con người và gây ô nhiễm môi trường.
+
+Để giải quyết vấn đề này, Cục ứng dụng và phát triển công nghệ (Bộ KH&CN Việt Nam) đã điều tra, tìm kiếm những đối tác trên thế giới có khả năng hoàn thiện những công nghệ mới và ngày 26/11/2010 đã cùng Công ty nghiên cứu phát triển nguồn lực tự nhiên (NDR), Công ty Hoá chất, Kim loại và Khoáng sản (CMM), Cộng hoà Pháp tổ chức Hội thảo giới thiệu “Công nghệ Oxindus: Biến chất thải thành sản phẩm có giá trị” tại Hà Nội.
+
+Phía Pháp đã giới thiệu công nghệ Oxindus  là một công nghệ xử lý bụi thải nói trên của các cơ sở luyện thép bằng hồ quang điện gồm 2 công đoạn:
+
+Công đoạn thứ nhất, gọi là Black line, bố trí ngay tại nơi sản xuất trong đó trộn bụi thải với chất phụ gia trước khi tái tuần hoàn vào lò hồ quang dưới dạng các bánh thép. Công đoạn này cho phép nhà máy thu hồi thêm được một lượng sắt hao hụt lớn , nâng cao hàm lượng các kim loại có giá trị và giảm hàm lượng chất ô nhiễm (các chất chứa clo và fluo, chủ yếu là giảm lượng điôxin)
+
+Công đoạn thứ hai gồm xử lý các bánh thép thô nói trên, thu hồi từ các nhà máy, loại bỏ tiếp các tạp chất có hại để biến thành nguyên liệu có giá trị, (từ đó sản xuất ra các kim loại khác (kẽm, chì…) bằng phương pháp thuỷ luyện.
+
+Bằng cách đó, công nghệ Oxidus đã xử lý triệt để khả năng gây ô nhiễm bụi thải, thu hồi thêm được sắt cùng với một nguyên liệu phụ cung cấp cho các nhà máy luyện kẽm.
+
+Các nhà khoa học, chuyên gia kinh tế và công nghệ đánh giá cao công nghệ Oxindus, cho rằng đây là công nghệ có hiệu quả, đem lại các giải pháp có tính khả thi cao về cả mặt kinh tế và môi trường trong việc phát triển ngành luyện thép ở nước ta.
+Cơ quan hàng không vũ trụ của Mỹ (NASA) vừa thông báo, kế hoạch phóng tàu con thoi Discovery sẽ tiếp tục bị hoãn ít nhất tới ngày 17/12 và thậm chí có thể hoãn tới tháng 2/2011.
+
+Hôm 24/11 vừa qua, các kỹ sư hàng đầu của NASA đã nhóm hợp để đánh giá công việc khắc phục những vết nứt gần đây ở khoang chứa nhiên liệu của tàu con thoi Discovery. Kết thúc cuộc họp này, NASA đã quyết định sẽ lùi kế hoạch phóng tàu con thoi Discovery (theo dự kiến trước đó là vào ngày 7/12)  ít nhất tới ngày 17/12 và có thể tới 2/2011.
+
+“Chúng tôi chưa sẵn sàng cho sứ mệnh cuối cùng của tàu con thoi Discovery vào ngày 7/12 như dự kiến. Vì thế, kế hoạch phóng tàu con thoi Discovery sẽ tiếp tục phải hoãn lại”, ông John Shannon, giám đốc chương trình tàu con thoi của NASA, tiết lộ. “Chúng tôi dự kiến sẽ phóng tàu con thoi vào ngày 17/12, nhưng kế hoạch này vẫn có thể thay đổi.”
+
+NASA lo ngại nếu phóng Discovery vào ngày 17/12, sứ mệnh bay kéo dài 11 ngày của tàu con thoi này sẽ trùng với dịp nghỉ lễ Giáng sinh. Trong thời điểm đó, một số bộ phận của NASA sẽ không làm việc và hệ thống máy tính của NASA sẽ được cấu hình lại. Điều này có thể ảnh hưởng tới việc liên lạc của tàu con thoi Discovery với nhóm điều khiển trên mặt đất.
+
+Vì thế, NASA đang cân nhắc khả năng lùi kế hoạch phóng tàu con thoi Discovery sang tháng 2/2011. “Chúng tôi muốn đảm bảo rằng chúng tôi có thể làm chủ được mọi vấn đề trước khi bắt đầu sứ mệnh cuối cùng của tàu con thoi Discovery”, ông John Shannon cho biết thêm.
+
+Theo kế hoạch ban đầu, tàu con thoi Discovery dự kiến được phóng vào ngày 1/11. Nhưng NASA đã quyết định hoãn lại một ngày do một lỗ thủng trong hệ thống điều áp. Sau đó, NASA tiếp tục trì hoãn kế hoạch phóng tàu con thoi Discovery sau khi phát hiện nhiều vết nứt ở khoang chứa nhiên liệu.
+Một công ty Australia đã nghiên cứu thành công những bộ pin mặt trời mới để áp dụng đại trà cho một thành phố Bắc Úc.
+
+
+Tại một trong những sân bay của thành phố Ellis Sprig thuộc phía Bắc Australia, người ta đã cho chạy thử một trạm phát điện lắp 28 bộ pin cải tiến. Những bộ pin đó có khả năng tự quay theo chuyển động của Mặt trời và sản xuất ra 600 megawatt.h trong một năm. Nó đáp ứng được 1/3 nhu cầu về điện của sân bay.
+
+Trong số các dự án sẽ thực hiện của công ty này, người ta sẽ lắp ráp những trạm điện tại một số toà nhà cao tầng của thành phố. Chúng sẽ được dùng trong hệ thống đun nước cung cấp nước cho một trung tâm thể thao-giải trí của thành phố và điều hoà không khí cho một Trung tâm nghệ thuật.
+
+Ngoài ra người ta còn dự kiến sẽ lắp ráp các bộ pin mặt trời mới trên các mái nhà để hoàn toàn đun nóng nước bể bơi gia đình trong mùa hè cũng như bảo đảm 40% nhiệt năng vào mùa đông.
+Cuối tháng 10/2010 cuộc phẫu thuật đầu tiên được thực hiện hoàn toàn bằng robot đã diễn ra tại Canada. Mở đầu một kỷ nguyên chiếm lĩnh y học của robot. 
+
+Hiện nay, thế giới đầu tư vào công nghệ robot ở mức cao chưa từng có. Chúng lắp ráp ô tô, thực hiện vi phẫu thuật, làm sạch các hệ thống xử lý nước thải, ra phá bom mìn.
+
+Y học là một trong những hướng đầy triển vọng của công nghệ robot. Mỹ nổi tiếng với robot phẫu thuật mang tên da Vinci tiến hành mổ xẻ dưới sự điều khiển của con người. Việc làm này đã giảm được những nguy cơ bị nhiễm trùng và độ chính xác của các thao tác vượt hơn hẳn các bác sĩ phẫu thuật.
+
+Tuy nhiên, giá của robot còn quá cao. Nhà phẫu thuật Yuri Tolkach cho biết, giá một của robot da Vinci ở Mỹ là 2,5 triệu đôla và ở Nga còn đắt hơn. Một bộ cánh tay robot giá 10.000 euro chỉ dùng được không tới 10 lần.
+
+Cả nước Nga mới có 6 robot da Vinci. Song chưa biết bao giờ mới có các robot phẫu thuật “made in Russia” vì công nghệ robot ở Nga lạc hậu hơn nhiều so với nước ngoài. Các nhà phẩu thuật Nga nổi tiếng là có bàn tay vàng nhưng với sự phát triển của công nghệ robot có thể làm tiếng tăm của họ sẽ chẳng là gì nữa.
+
+Cuối tháng 10 vừa qua, các bác sĩ Canada đã thực hiện thành công ca mổ và gây mê hoàn toàn do robot. Các chuyên gia Trường
+ĐH McGill đã sử dụng bộ robot da Vinci cũng với robot gây mê có tên là McSleepy để mổ tuyến tiền liệt một bệnh nhân..
+
+Các bác sĩ Italia có thể tự hào với thành tích dùng robot để phẫu thuật từ xa, để cấy ghép tuyến tuỵ cho một phụ nữ bị tiểu đường typ 1 trong nhiều năm. Ca phẫu thuật rất hoàn hảo, không một sai sót nhỏ và người phụ nữ bình phục rất nhanh.
+
+Công nghệ hiện đại hứa hẹn sẽ có những đột phá mới trong lĩnh vực phẫu thuật tim mạch bằng robot. Dường như y học trong thời gian tới sẽ không cần phải mổ lồng ngực trong phẫu thuật tim nữa. “Bàn tay” robot có thể đụng chạm đến tim để thực hiện mọi thao tác chỉ thông qua một lỗ nhỏ đục xuyên lồng ngực bệnh nhân. Nhà phẫu thuật chỉ cần nhìn lên màn hình để quan sát hình ảnh 3D của trái tim đang đập: hình ảnh này đồng nhất tuyệt đối với những gì nhà phẫu thật nhìn thấy được khi mở ngực.
+
+Công ty Intouch Health của Mỹ còn thiết kế robot RP-7 để huấn luyện các kỹ thuật mới từ xa cho các bác sĩ. robot có tên là Bloodbot của Anh tiến hành phân tích máu làm các xét nghiệm khác nữa trong khi robot bệnh lý học mổ xẻ tử thi, giúp cho các bác sĩ rút kinh nghiệm về chẩn đoán, tìm hiểu các diễn biến của bệnh và giúp vào việc điều tra hình sự (pháp y).
+Các nhà khoa học Hà Lan phát hiện ra rằng những cây xanh trồng trong khu vực có nguồn phát sóng Wifi thì vỏ cây cho đến lá cây đều có dấu hiệu bị bệnh. Vỏ cây thường bị nứt và chảy nhựa trong khi lá cây thì bị héo và chết.
+
+Khi phát hiện ra các hiện tượng bất thường ở những cây xanh được trồng trong thành phố không phải là bệnh do sâu bọ lạ gây ra, các nhà chức trách của thành phố Alphen aan den Rijn, miền Tây Hà Lan đã quyết định tiến hành nghiên cứu kỹ lưỡng hiện tượng này. 
+
+Các nhà khoa học của thành phố này đã đem 20 cây tần bì trồng sát 6 điểm phát sóng Wifi trong vòng 3 tháng. Kết quả, những cây trồng gần các điểm phát sóng Wifi nhất thì lá cây bóng loáng như chì. Điều này là do các lớp biểu bì trên và dưới lá đã bị chết.
+Nghiên cứu cũng chỉ ra rằng, 70% các cây xanh ở Hà Lan xuất hiện hiện tượng tương tự. Trong khi đó, 5 năm trước, con số này chỉ khoảng 10%. Tuy nhiên, ở những khu rừng rậm thì dường như không xuất hiện hiện tượng này.
+
+Cũng thông qua nghiên cứu này, các nhà khoa học cũng phát hiện ra rằng, bức xạ sóng Wifi còn làm chậm sự phát triển của cây ngô.
+
+Các nhà khoa học cho rằng, phát hiện mới này là cảnh báo đến con người trước những tác hại mà sóng Wifi có thể gây ra trên cơ thể họ. Đồng thời nó sẽ góp một bằng chứng quan trọng trong việc các vị phụ huynh phản đối lắp đặt sóng Wifi tại các trường học.
+
+Tuy nhiên, sau khi kết quả nghiên cứu được công bố, Bộ Y tế của Hà Lan đã đưa ra một thông báo, trong đó nhấn mạnh: “Các nhà khoa học đến từ đại học Wageningen cho rằng, đây mới chỉ là những kết quả bước đầu và chưa được chứng thực”.
+
+“Các nhà khoa học này cảnh báo rằng, đây chưa thể là một kết luận chắc chắn đủ để tạo ra ảnh hưởng sâu rộng. Với những thông tin cơ bản hiện có, vẫn chưa thể kết luận rằng sóng Wifi gây ảnh hưởng xấu đến cây cối hay các loài thực vật khác”.
+
+Nhiều nhà khoa học cũng bày tỏ sự nghi ngờ đối với phát hiện của các nhà khoa học Hà Lan. Tiến sỹ Marvin Ziskin, giáo sư Đại học Temple, Mỹ nói: “Những kết luận tương tự như vậy đã có từ lâu. Tuy nhiên những nghiên cứu về bức xạ sóng Wifi cho đến nay vẫn chưa có tiến triển gì. Từ góc độ khoa học, vẫn chưa có bất cứ bằng chứng nào chứng minh những sóng bức xạ đó có thể là một nhân tố khiến người ta phải lo lắng”.
+
+Trước đó, vào năm 2007, một phóng sự của đài truyền hình BBC của Anh cũng chỉ ra rằng, bức xạ sóng Wifi ở một trường học cao gấp 3 lần so với cột phát sóng điện thoại di động. Tuy nhiên mức này còn thấp hơn 600 lần so với những quy định an toàn của quốc gia.
+Mô hình tòa nhà chọc trời giống như phim viễn tưởng Star Wars hay trong những trò chơi khoa học viễn tưởng sẽ được xây dựng tại Đài Loan vào năm 2012. 
+
+Mô hình thiết kế tòa nhà chọc trời có tên “Floating Observatoryies”, lấy cảm hứng từ một cây xanh với những chiếc lá đung đưa theo gió, đã giành giải nhất trong cuộc thi thiết kế nhà tương lai của thành phố Taichung, Đài Loan. 
+
+Phần chính của tòa nhà được thiết kế giống như một cái cây với 8 đài quan sát nổi giống như những lá cây, có thể di chuyển lên xuống một cách linh hoạt. Mỗi khoang nổi này cũng có chức năng như một thang máy, có thể chở được 80 người.
+
+Theo nhóm kiến trúc sư thiết kế, các khoang quan sát này sẽ được xây dựng bằng những vật liệu siêu nhẹ và có thể trượt lên xuống nhờ một nam châm điện cực mạnh. Tòa nhà này sẽ bao gồm các khu chức năng, văn phòng làm việc, viện bảo tàng, nhà hàng và khu giải trí. 
+
+Tờ Daily Mail trích dẫn lời Stefan Dorin, kiến trúc sư người Romania và là tác giả thiết kế của tòa nhà, cho biết: “Bắt đầu từ hình ảnh về Đài Loan nhìn từ trên cao – giống như một chiếc lá cây, chúng tôi đã phát triển một mẫu nhà chọc trời hình cây, bao gồm: 8 khoang giống chiếc lá có chức năng như những thang máy có thể di chuyển lên xuống. Ngoài ra, những khoang nổi này cũng là nơi để mọi người ngắm nhìn toàn cảnh thành phố”.
+
+Tòa nhà “Floating Observatoryies” được thiết kế với những công nghệ thân thiện tối đa với môi trường, bao gồm việc sử dụng điện năng lượng Mặt trời cũng như hệ thống sưởi và nước nóng được cung cấp từ một nhà máy địa nhiệt. Dự kiến, tòa nhà có kiểu dáng đặc biệt này sẽ được chính thức khởi công xây dựng vào năm 2012. 
+
+“Mặc dù những khoang quan sát nổi được thiết kế giống các mô hình trong trò chơi điện tử, nhưng thiết kế này rất khả thi. Chúng sẽ đóng vai trò quan trọng giúp tạo điểm nhấn cho tòa nhà. Điều này không chỉ giúp tạo ra sự khác biệt về công nghệ mà đê sẽ là một đài quan sát lý tưởng để chiêm ngưỡng toàn cảnh thành phố Taichung”, kiến trúc sư Dorin nói.
+Uỷ ban Giải Nobel vừa tuyên bố, chủ nhân của giải thưởng Nobel Vật lý 2010 là hai nhà khoa học Andre Geim và Konstantin Novoselov vì những thí nghiệm mang tính đột phá về chất liệu graphene hai chiều.
+
+Chỉ mới được phát hiện ra vài năm trước đây, graphene là một dạng carbon gồm những tấm chỉ dày một nguyên tử. Đây là một trong những đề tài nghiên cứu sôi nổi nhất trong ngành vật lí vật chất ngưng tụ do các tính chất tuyệt vời của graphene, thí dụ như độ dẫn cao và sức bền cơ học vô địch của nó. Nhiều nhà khoa học kì vọng graphene sẽ giữ một vai trò lớn trong ngành điện tử học.
+
+Việc thắng giải Nobel Vật lý năm nay của Andre Geim và Konstantin Novoselov đúng với dự đoán của đông đảo giới chuyên môn và những người yêu khoa học. Geim gốc Nga quốc tịch Hà Lan, trong khi Novoselov mang song tịch Anh và Nga. Cả hai đều là giáo sư trẻ đang làm việc tại trường Đại học Manchester.
+
+Như vậy, hai nhà khoa học Geim và Novoselov sẽ cùng chia nhau khoản tiền thưởng 10 triệu kronor (tương đương 1,5 triệu USD).
+
+Năm ngoái, 3 nhà khoa học Mỹ đã giành giải Nobel Vật lý vì hai thành tựu mang tính đột phá, giúp mang tới hai cột trụ cho kỷ nguyên số hoá. Đó là công trình liên quan đến sự truyền ánh sáng trong các sợi truyền thông quang học của nhà khoa học người Mỹ gốc Hoa Charles K.Kao và phát minh mạch bán dẫn hình ảnh - cảm biến CCD của hai đồng tác giả Willard S. Boyle và George E. Smith.
+
+Trả lời phỏng vấn báo giới sau khi biết thông tin thắng giải Nobel, ông Geim cho biết: "Tôi từng không hy vọng nhận giải Nobel năm nay vì tôi nghĩ đây là năm của các nhà vật lý học thiên thể".
+
+Đây là ngày thứ hai công bố những người thắng giải Nobel ở các lĩnh vực. Trong những ngày tới, Uỷ ban Giải Nobel sẽ xướng danh những người được trao giải Nobel Hoá học, Văn học và Hoà bình năm 2010. Giải Nobel về Kinh tế dự kiến sẽ được công bố vào đầu tuần sau.
+Có lẽ giải Nobel năm nay được trao cho các nhà khoa học ở 2 đối cực về tuổi tác, một người thuộc loại già nhất – ông Robert Edwards, 85 tuổi về một công trình đã ra đời cách nay khoảng 50 năm và người thuộc loại trẻ nhất, sinh sau  ông ta gần nửa thế kỷ, ông  Kostantin Novoselov - 36 tuổi.
+
+Tuổi của phát minh graphene cũng quá trẻ. Vòng nguyệt quế đến với các tác giả của phát minh, Andre Geim và Konstantin Novoselov, quả là quá sớm, chỉ 6 năm. Trong lúc giải Nobel Y học đến với Robert Edwards lại quá muộn màng, chỉ sau khi thành công đã quá vang dội và mang lại hạnh phúc “có người nối dõi” cho những 4 triệu gia đình trên toàn thế giới.
+
+Thế nhưng, cũng không phải là quá sớm nếu xét về mặt nó đã được thử thách một cách đầy đủ trong thực tế và ngày càng tỏ ra vô cùng hứa hẹn mà một trong những tác giả của nó đã ví như thành công phát minh ra polyme trước đây. Lúc đầu, polyme chưa biết có ứng dụng gì, nhưng sau đó đã mở ra cả một thời kỳ mới trong lịch sử loài người (thời đại đồ đá, thời đại đồ đồng, thời đại đồ sắt và hiện đang ở thời đại vật liệu tổng hợp).
+
+Giờ đây, phát minh graphen quả là một “ngôi sao nhạc rock sáng chói” trong thế giới vật liệu (như cách nói của Tạp chí CEE) hoặc hình ảnh hơn, người ta đánh giá nó như Christopher Colombus tìm ra châu Mỹ.
+
+Vậy, Graphen là gì?
+
+Chúng ta đã biết cacbon nguyên chất trong thiên nhiên tồn tại dưới dạng than chì (graphit) và kim cương. Song trong phòng thí nghiệm, người ta đã tổng hợp thành công 2 dạng cacbon nguyên chất nữa không hề có trong Thiên nhiên là fulleren (với sự phát minh ra nó. Harold Kroto, Robert Curl và Richard Smalley đã được trao giải Nobel hóa học năm 1996) và graphen (bắt nguồn từ graphite + ene) – “nhân vật” của giải Nobel Vật lý 2010.
+
+Graphen là những tấm phẳng, đơn lớp 2 chiều, trên đó cacbon nối với nhau thành một mạng lưới hình tổ ong (lục giác đều) bằng liên kết sp2, độ dài 0,142 nanomet. Nếu là một nhà hóa học, người ta coi graphen là một thành viên đặc biệt của hydrocacbon thơm đa vòng phẳng.
+
+Graphen được biết đến từ khi người ta phát minh ra phương pháp Tinh thể học tia X (X-ray crystallography). Tuy nhiên, chẳng ai nhắc đến nó, mãi đến năm 2004, mới được "đổi đời" bởi chính hai nhà khoa học vật lý tài giỏi đến từ đất nước Nga và làm việc ở Trường ĐH Manchester, Anh. Họ tách được graphen dưới dạng một lớp vật liệu mỏng chưa từng có, kích cỡ một nguyên tử và xác định được tính chất “kỳ diệu” của nó.
+
+Phát minh của họ lập tức dẫn đến một sự “bùng nổ” về nghiên cứu vật liệu mới này và có vị trí trung tâm trong thế giới khoa học. Người ta thống kê được riêng năm 2007, các nhà khoa học đa ngành đã công bố tới trên 1.000 công trình nghiên cứu liên quan đến graphen. Tháng trước, trong một Hội nghị của Hội Vật lý Mỹ có tới 374 công trình nghiên cứu mới về graphen.
+
+Tính chất kỳ diệu dẫn đến ứng dụng đặc biệt của graphen
+
+Graphen có nhiều tính chất chưa từng gặp ở các vật liệu khác, và các số đo tính năng của nó gây chấn động trong giới vật lý, hóa học và đặc biệt, điện tử học.
+
+Về tính chất vật lý, graphen là chất cực kỳ cứng, hơn cả kim cương, độ bền cao hơn thép trên 200 lần,  những ở dạng đơn lớp lại dẻo như một miếng nhựa, có thể bẻ cong, gấp hoặc cuộn lại thành ống.  Nó trong suốt cho phép tối thiểu 90% ánh sáng đi qua, điện trở thấp hơn chất dẫn điện trong suốt tiêu chuẩn là indi-thiếc oxit nên mở ra một ứng dụng rộng rãi trong việc sản xuất màn hình cảm ứng chất lượng cao, pin mặt trời, thiết bị lưu trữ năng lượng, điện thoại di động và dần dần có thể thay thế silicon trong lĩnh vực sản xuất chip máy tính tốc độ cao.
+
+Nó dẫn điện tử nhanh hơn bất cứ vật liệu nào đã biết, giống như chuyển động của một hạt không trọng lượng của thuyết tương đối (massless relativistic particle) là photon. Từ đó nó trở thành vật liệu để thực hiện trong phòng thí nghiệm nhằm kiểm tra lại những dự đóan của cơ học lượng tử tương đối tính mà trước đây người ta cho rằng chỉ có thể quan sát thấy trong các máy gia tốc hạt và lỗ đen.
+
+Trong lĩnh vực sản xuất các thiết bị vi điện tử, nhờ tính chất độc đáo của mình, các transistor graphen đã tạo ra những linh kiện rất đa dạng và ưu việt, đáp ứng nhu cầu của nhiều thiết bị mà nếu không phải nhà chuyên môn, người ta khó hình dung. Những mạch tích hợp (IC) dùng graphen đã thu nhỏ được kích thước đến tối đa mà vẫn bảo đảm (và nâng cao) tính năng các thiết bị vi điện tử - một hướng tiểu hình hóa (micronisation) thiết bị đang diễn ra.
+
+Ngành Sinh học gần đây cũng “nhòm ngó” đến graphen. Người ta đang thiết kế những thiết bị điện tử trên cơ sở những linh kiện chế tạo từ graphen để phân tích ADN và bộ gen người và các động thực vật với hy vọng sẽ có năng suất cao hơn và chính xác hơn. Viện Hàn lâm khoa học Trung quốc cũng phát hiện những tấm ôxit graphen có tính sát khuẩn cao và có khả năng dùng làm dụng cụ đựng thực phẩm có tác dụng bảo quản lâu dài.
+
+Chính những thành công trong nghiên cứu ứng dụng, người ta triển khai rất nhanh chóng các kết quả vào thực tế. Ngành công nghiệp graphen đã khai thác các phương pháp tổng hợp vật liệu này trên quy mô công nghiệp (ở đây, phương pháp hóa học có vai trò quan trọng) và giá thành sản xuất ngày càng giảm.
+
+Ví dụ, năm 2008 graphen được coi là một trong những sản phẩm đắt nhất xưa nay, một “miếng” graphen có diện tích bằng thiết diện một sợi tóc giá 1.000 đôla (tương đương 100.000.000 đôla/cm2) thì nay một số công ty hóa chất đã sản xuất được trên quy mô công nghiệp hàng tấn, và giá thành khi phủ trên nền cacbua silic chỉ còn 100 đôla/cm2.
+
+Chỉ riêng sự việc đó đã cho thấy  người ta “lao vào” vật liệu quý giá ấy như thế nào. Các nhà khoa học cũng tập trung  biến tính nó bằng phương pháp hóa học để thu được những tính năng cần thiết khác phục vụ cho những mục đích xác định, đa dạng của đời sống con người.
+Quỹ Thiên nhiên quốc tế (WWF) vừa công bố các nhà khoa học của tổ chức này đã phát hiện thêm 145 loài sinh vật mới quanh lưu vực sông Mê Kông trong năm 2009.  Những sinh vật mới được phát hiện đáng chú nhất như loài tắc kè môi đỏ, cá có răng sắc nhọn, loài cây ăn thịt cao 7m,...
+
+Bản báo mới của Quỹ Thiên nhiên quốc tế cho thấy rằng trung bình 3 loài sinh vật mới được phát hiện hàng tuần ở khu vực sông Mê Kông trong năm 2009. Những phát hiện này là một phần trong chương trình bảo tồn sự đa dạng sinh học ở khu vực Đông Nam Á của WWF.
+
+Một trong những sinh vật được phát hiện gần đây là loài cá Dracula Minnow sống ở sông Mê Kông trên lãnh thổ của Myanmar. Loài cá này có cặp mắt lồi ra rất lớn và có hai chiếc răng sắc nhọn ở hàm trên dài khoảng 1,7 cm.
+
+Một số loài sinh vật đáng chú ý khác mới được phát hiện ở khu vực sông Mê Kông trong năm 2009 bao gồm: loài tắc kẻ môi đỏ, loài rắn không có răng, loài ếch có tiếng kêu như loài dế, loài cây ăn thịt khổng lồ cao 7m, loài cá có khả năng dính cơ thể vào đá, ...
+
+"Tốc độ phát hiện các loài sinh vật mới tại lưu vực sông Mê Kông cao hơn nhiều so với các khu vực khác trên thế giới”, ông Stuart Chapman, giám đốc của WWF tại khu vực ĐNA, cho biết. "Bởi vì đây là khu vực rất đa dạng về địa lý và  khí hậu cùng với sự dồi dào về nguồn nước ngọt và rừng nhiệt đới”.
+
+Mặc dù khu vực sông Mê Kông được đánh giá có hệ sinh vật đa dạng nhất trên thế giới, nhưng ông Stuart Chapman cảnh báo rằng đây cũng là khu vực có số lượng sinh vật đang có nguy cơ tuyệt chủng nhiều nhất trên thế giới.
+
+Sông Mê Kông -  chảy qua Trung Quốc, Myanmar, Thái Lan, Lào, Campuchia và Việt Nam - là môi trường sống của rất nhiều các loài động vật đang có nguy cơ tuyệt rất lớn trên Trái đất như hổ, vui châu Á, cá heo mỏ, cá tra khổng lồ, ...
+
+Vì thế, các nhà khoa học thuộc Bản báo mới của Quỹ Thiên nhiên kêu gọi các đại diện của các quốc gia, chuẩn bị tham gia Hội nghị của Liên Hợp Quốc về đa dạng sinh học diễn ra tại Nhật Bản vào tuần tới, cần đưa ra những biện pháp bảo vệ hiệu quả những sinh vật đang đứng trước nguy cơ tuyệt chủng ở khu vực sông Mê Kông.
+Trong số các đặc tính của sinh vật và cả con người, cảm nhận thế giới xung quanh mình bằng khứu giác cho tới nay vẫn là điều bí hiểm nhất. Để tìm hiểu vùng nào trên não phụ trách hoạt động của khứu giác, các nhà khoa học đã tạo ra những con chuột biết ngửi… ánh sáng bằng cách cấy gen chịu trách nhiệm tổng hợp chất protein cảm nhận ánh sáng vào các tế bào trong mũi của chúng.
+
+Cho tới nay, các nhà khoa học vẫn chưa biết bằng cách nào hệ thần kinh của chúng ta có thể xử lý thông tin vầ cảm nhận mùi. Vùng nào trên não chịu trách nhiệm về điều này cũng chính là đề tài ít được nghiên cứu nhất.
+
+Các nghiên cứu rất phức tạp ở chỗ, các sinh vật thường cảm nhận không chỉ một mà nhiều mùi cùng lúc. Việc tìm hiểu tế bào thần kinh nào phản ứng với mùi nào trong số rất nhiều tế bào thần kinh là việc khó khăn. Thế nhưng mới đây đã tìm được phương pháp để gỡ “cuộn chỉ khứu giác” rối tung này.
+
+Nhóm các nhà khoa học do giáo sư Sinh học phân tử và tế bào Venkateshem Murthy, Trường ĐH Harvard đứng đầu đã thực hiện một thí nghiệm rất thú vị với sự tham gia của một nhóm các chú chuột bạch rất tài năng. Các chú có thể “ngửi” được… những tia sáng. Tài năng của các chú là do công nghệ gen mang lại.
+
+Người ta ghép nhân tế bào màng nhầy của mũi có khả năng cảm nhận mùi (bản chất là một tổ hợp gen, tham gia vào việc tổng hợp protit, gọi là rodopsin) vào những con vật này. Rodopsin có trong võng mạc của mắt các loài vật, chức năng của nó là cảm nhận ánh sáng. Nhờ vậy đã tạo ra trong cơ quan khứu giác của chuột khả năng phản ứng với ánh sáng chẳng khác gì phản ứng với mùi.
+
+Vì sao trong các thí nghiệm này, người ta lại chọn ánh sáng làm chất kích thích ? Bởi đa số các sinh vật chỉ nhận biết được một phần nhỏ quang phổ của ánh sáng, chẳng hạn màu xanh, màu đỏ hoặc màu tím. Trong khi đó, chúng ta nhận biết được hầu như toàn bộ các màu, nhưng phân biệt mùi lại tồi.
+
+Sau khi đã tạo ra được những con chuột “ngửi được ánh sáng”, các nhà khoa học đặt chúng vào chỗ sáng và xem khi tiếp xúc với ánh sáng vùng nào trên não sẽ phản ứng. Từ đó đã lập ra được một tấm bản đồ những khu vực nào trên não chuột bị kích thích khi “ngửi” một tia sáng cũng như vùng nào trên vỏ của bán cầu não xử lý các thông tin về mùi.
+
+Tuy nhiên các nhà khoa học không tự hạn chế những nghiên cứu khứu giác nhờ những chú chuột biến đổi gen. Tiến sĩ Murthy cho rằng phương pháp mới có thể dùng để giải mã bất kỳ đoạn thần kinh nào phản ứng với các kích thích phức tạp như sóng âm hoặc xúc giác.
+
+Ông nói: "Muốn tìm hiểu não cảm nhận mùi ra sao, cách tốt nhất là tìm hiểu những phần nào của não bị kích thích. Làm được điều này khá khó vì nếu dùng mùi để kích thích những thụ quan khứu giác là mùi thì mùi quá đa dạng và mũi thường chỉ cảm nhận được một tổ hợp mùi chứ không phải một mùi đơn lẻ. Cuối cùng, chúng tôi quyết định thay đổi “chiếc máy phân tích mùi” của mình từ mũi sang... mắt, bằng cách huy động võng mạc của mắt vào cuộc. Chúng tôi tin rằng, phương pháp này có thể dùng để giải mã bất kỳ đoạn thần kinh khứu giác nào thu nhận những thông tin từ các thụ quan cụ thể và xử lý chúng”.  
+
+Hiện nay trong nghiên cứu người ta hay dùng các “thể đột biến” (mutant) để giãi mã các bí mật của bộ não. Mùa hè vừa qua, một nhóm các nhà khoa học Mỹ đã biến tính được những con ruồi giấm có khả năng “ngửi ánh sáng”. Họ ghép những gen của rodopsin vào nhân tế bào khứu giác của những con ruồi này, nhờ vậy trong các tế bào thụ quan của thần kinh khứu giác ruồi đã sẵn có những tế bào cảm nhận ánh sáng. Kết quả là thần kinh khứu giác của ruồi giấm phản ứng với ánh sáng màu xanh da trời cũng như với các mùi khó chịu đối với chúng như etylprropionat và octylaxetat.
+
+Để kiểm tra lại hệ thống cảm nhận với ánh sáng hoạt động như thế nào, các nhà khoa học đặt ấu trùng của những con ruồi giấm đã gây đột biến vào các đĩa thuỷ tinh, chia làm 2 phần: một phần tối và một phần chiếu ánh sáng màu xanh. Trong phần tối, người ta phun octylaxetat với cường độ mùi rất mạnh, song chúng vẫn ưu tiên bò sang vùng tối. Rõ ràng, màu xanh có mũi làm chúng hoảng sợ hơn.
+
+Bằng phương pháp tương tự, người ta đã tạo ra những con chuột có thể biết một cách chính xác mùi của các sóng ánh sáng.
+Rất tiếc rằng chúng chẳng có thể kể lại với chúng ta cãch “ngửi ánh sang như thế nào”.
+
+Ong bắp cày phương Đông là loài động vật đầu tiên được phát hiện có khả năng biến ánh sáng mặt trời thành điện.
+
+Trước đây giới khoa học đã biết ong bắp cày phương Đông, nhờ một cơ chế nào đó, có khả năng tạo ra điện bên trong bộ xương ngoài. Vì thế mà trời càng nắng to thì chúng làm việc càng hăng – điều bất thường đối với các loài ong khác.
+
+Marian Plotkin, một nhà nghiên cứu của Đại học Tel Aviv tại Israel, cùng các đồng nghiệp tìm hiểu cấu trúc bộ xương ngoài của ong bắp cày phương Đông để tìm hiểu cách thực tạo ra điện của chúng, National Geographic cho biết.
+
+Họ nhận thấy các hạt sắc tố trong các mô màu vàng của ong có khả năng “nhốt” ánh sáng mặt trời, còn các mô màu nâu tạo ra điện. Tuy nhiên, họ chưa biết chính xác ong sử dụng điện để làm gì.
+
+Pin mặt trời do con người tạo ra chỉ biến 10 đến 11% ánh sáng mặt trời thành điện. Con số tương tự dành cho tế bào của ong bắp cày phương Đông chỉ là 0,335%. Vì thế mà phần lớn năng lượng của chúng được tạo ra từ thức ăn.
+
+“Chúng tôi từng thấy khả năng biến ánh sáng mặt trời thành điện ở thực vật và vi khuẩn, song đây là lần đầu tiên thấy khả năng đó ở động vật”, Plotkin phát biểu.
+
+Nhóm của Plotkin nhận thấy nhiều mô màu nâu của ong bắp cày phương Đông chưa melanin, sắc tố bảo vệ da người bằng cách hấp thụ tia tử ngoại và biến nó thành nhiệt.
+
+Kết quả phân tích cấu trúc của các mô màu nâu cho thấy chúng có nhiều đường rãnh bắt ánh sáng và “cắt” thành nhiều tia sáng nhỏ hơn.
+
+“Chỉ 1% lượng ánh sáng lọt vào mô màu nâu phản xạ ra ngoài”, Plotkin nói.
+
+Những mô màu vàng của ong chứa xanthopterin, sắc tố tạo màu cho cánh bướm và nước tiểu của động vật có vú.
+
+Khi nhóm nghiên cứu phân lập xanthopterin trong một hỗn hợp ở dạng lỏng và đặt hỗn hợp vào điện cực của pin mặt trời. Khi họ chiếu ánh sáng vào điện cực, sắc tố trong hỗn hợp tạo ra điện.
+Giọng mẹ đánh thức khả năng ngôn ngữ của con
+Giọng nói của người mẹ sẽ kích thích những phản ứng ở vùng học ngôn ngữ trong não trẻ sơ sinh.
+
+Các nhà khoa học của Đại học Montreal và Trung tâm nghiên cứu Y khoa của Đại học Sainte-Justine, Canada theo dõi 16 trẻ sơ sinh trong vòng 24 giờ khi các bé chào đời. Họ gắn các điện cực lên đầu các bé khi chúng đang ngủ rồi yêu cầu các bà mẹ đọc nguyên âm "A". Thí nghiệm tương tự được lặp lại nhưng người phát âm là một nữ y tá.
+
+Khi người mẹ nói, bán cầu não trái của trẻ phản ứng rất rõ, đặc biệt là khu vực phát triển ngôn ngữ và kỹ năng vận động. Ngược lại, khi giọng nói lạ cất lên, bán cầu phải của não trẻ có phản ứng. Bán cầu phải có chức năng nhận dạng giọng nói.
+
+"Lần đầu tiên các nhà khoa học chứng minh rằng não bộ của trẻ sơ sinh phản ứng mạnh mẽ với giọng nói của mẹ. Nói một cách khoa học thì giọng nói của người mẹ rất đặc biệt với mỗi đứa trẻ", bác sĩ tâm lý Maryse Lassonde của Đại học Montreal phát biểu.
+
+Khi giọng nói của người lạ vang lên, những âm thanh này chỉ có khả năng kích thích bộ phận ghi nhận giọng nói trong não bộ.
+
+Trước đây, những cuộc nghiên cứu về não bộ con người chưa từng được thực hiện với trẻ sơ sinh. Trẻ em vốn có khả năng bẩm sinh về ngôn ngữ, nhưng các nhà nghiên cứu mới chỉ bắt đầu hiểu đó là những khả năng nào và chúng vận hành ra sao. Chẳng hạn, khi đứa trẻ nghe thấy âm "A", chúng sẽ tạo khẩu hình miệng để bắt chước theo âm thanh này, dù chưa từng nhìn thấy miệng của người phát âm. Nhóm nghiên cứu kết luận rằng, mẹ chính là người đầu tiên đánh thức khả năng ngôn ngữ của trẻ.
+Thuốc lá làm giảm trí thông minh
+Những người hút thuốc lá có chỉ số thông minh thấp hơn người không hút thuốc và thời gian hút càng dài thì trí tuệ của con người càng sa sút.
+
+Tiến sĩ Mark Weiser một chuyên của Trung tâm Y khoa Sheba tại Tel Hashomer, Israel - cùng các đồng nghiệp theo dõi hơn 20 nghìn binh lính Do Thái để đánh giá tác động của việc hút thuốc đối với trí tuệ, China Daily đưa tin.
+
+Giới khoa học đã tìm thấy một số bằng chứng về mối quan hệ giữa thói quen hút thuốc và sự suy giảm trí thông minh. Tuy nhiên, nhiều nghiên cứu trước đây chỉ dựa vào những bài kiểm tra khả năng tư duy của con người ở giai đoạn ấu thơ. Ngoài ra nhiều nhà khoa học còn nghiên cứu những người mắc bệnh thần kinh hoặc có hành vi không bình thường – hai đối tượng có xu hướng hút thuốc và IQ thấp.
+
+Để hiểu rõ hơn mối quan hệ giữa hút thuốc và IQ, nhóm của Weiser nghiên cứu hơn 20 nghìn nam quân nhân 18 tuổi trong quân đội Israel. Không có bất kỳ binh sĩ nào mắc bệnh thần kinh hay có vấn đề về hành vi.
+
+Nhóm nghiên cứu cho biết, 28% binh sĩ hút ít nhất một điếu thuốc mỗi ngày, 3% từng hút thuốc nhưng nay đã bỏ, 68% chưa từng hút.
+
+Sau khi các binh sĩ làm bài tập kiểm tra IQ, các chuyên gia nhận thấy số điểm trung bình của nhóm hút thuốc thấp hơn 94, thấp hơn so với số điểm 101 của nhóm không hút. Kết quả vẫn không đổi ngay cả khi nhóm nghiên cứu tính tới các yếu tố khác, như địa vị xã hội, trình độ học vấn.
+
+Chỉ số IQ giảm dần theo số lượng điếu thuốc lá mà binh lính hút. Cụ thể, những người hút trung bình 5 điếu mỗi ngày có chỉ số IQ là 98, trong khi chỉ số IQ ở những người hút hơn một bao thuốc (20 điếu) mỗi ngày là 90.
+
+Binh sĩ không được hút thuốc lá trong lúc làm bài kiểm tra trí tuệ. Vì thế nhóm nghiên cứu cho rằng rất có thể việc đó tác động tới khả năng làm bài của những người hút thuốc lá.
+
+Để giải quyết vấn đề này, các chuyên gia phân tích điểm số của những người chỉ bắt đầu hút thuốc khi vào quân ngũ. Điểm trung bình của họ là 97 – vẫn thấp hơn so với những người không hút thuốc. Như vậy, việc không hút thuốc lá không hề ảnh hưởng tới khả năng làm bài kiểm tra của binh sĩ.
